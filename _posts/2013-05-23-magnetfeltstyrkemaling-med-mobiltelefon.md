@@ -40,7 +40,7 @@ måle hvordan et magnetfelt varierer med afstanden.
 Opstilling
 ----------
 
-![]({{site.url}}/images/magnetopstilling2.jpg) ![]({site.url}}/images/magnetopstilling1.jpg)
+![Opstilling-2]({{site.url}}/images/magnetopstilling2.jpg) ![Opstilling-1]({{site.url}}/images/magnetopstilling1.jpg)
 
 Mobiltelefonen (en LG Nexus 4) anbringes i en passende holder - hér et
 whiskyglas, da det havde nogle passende dimensioner. 
@@ -101,7 +101,7 @@ ret linie, så lad os prøve at lave sådan ét. Bemærk at jeg har trukket
 baggrundsfluxen (målt til ca. 54µT) fra alle målinger, for kun at have
 den del af signalet der hidrører fra magneten.
 
-![]({site.url}}/images/magnetloglog.png)
+![]({{site.url}}/images/magnetloglog.png)
 
 Det må jo siges at være en forbavsende pæn ret linie, der passer fint
 med datapunkterne - og min software siger da også at \\(R^2 = 0,97\\).
@@ -124,7 +124,7 @@ og \\(R^2 =0,999\\).
 
 Lægger vi denne linie ind oven i det originale dataplot fås følgende:
 
-![]({{site.url}}images/magnetslutfit.png)
+![]({{site.url}}/images/magnetslutfit.png)
 
 Der må jubles - det er godkendt! Især når man tager forsøgsopstilingens
 (mangel på) kompleksitet i betragtning.
