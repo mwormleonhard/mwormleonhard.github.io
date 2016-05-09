@@ -11,4 +11,4 @@ blogger_id: tag:blogger.com,1999:blog-6363822545143881814.post-36806190623778547
 blogger_orig_url: http://labnoter.blogspot.com/2015/10/kan-man-stikke-ild-til-en-permyntepastil.html
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><iframe width="320" height="266" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/eJE_RFVQg3o/0.jpg" src="https://www.youtube.com/embed/eJE_RFVQg3o?feature=player_embedded" frameborder="0" allowfullscreen></iframe></div><br />
+{%include youtubeframe.html id="eJE_RFVQg3o" %} 
