@@ -105,6 +105,18 @@ a {
         color: $text-color;
         text-decoration: underline;
     }
+    
+    &.SoMeIcon:hover {
+        text-decoration: none;
+        opacity: 0.5;
+        vertical-align: middle;
+    }
+    
+    &.SoMeIcon {
+        display: inline-block;
+        text-decoration: none;
+        vertical-align: middle;
+    }
 }
 
 
