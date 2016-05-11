@@ -2,8 +2,11 @@
 layout: post
 title:  "Dr. Jekyll gør sit indtog"
 date:   2016-05-01 16:49:19 +0200
-categories: jekyll update
+tags:
+- Housekeeping
 ---
+
+**UPDATE 2016-05-11:** Jeg har købt www.labnoter.dk, og det er der det kommer til at sne. Jeg er stadig hostet på github, så kig endelig forbi hvis du har lyst til at snuse i sovsen! ;-)
 
 Jeg er gået i gang med at flytte al min blog- og anden internetaktivitet af den skrivende art over på github pages <http://mwormleonhard.github.io>.
 
