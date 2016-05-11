@@ -14,7 +14,7 @@ foredrag, i håbet om at det kan vække interesse eller inspiration.
 Hvis du kunne tænke dig at høre mere om noget af det, eller har en helt
 syvende idé, så ring eller skriv endelig.
 
-##Naturvidenskaben i retfærdighedens tjeneste
+## Naturvidenskaben i retfærdighedens tjeneste
 
 Hvis man ser CSI eller en af de mange lignende serier, er man jo nok
 næppe i tvivl om naturvidenskab er en vigtig del af moderne
