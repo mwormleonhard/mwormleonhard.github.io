@@ -22,3 +22,7 @@ layout: default
 </article>
 
 {%include share_page.html %}
+
+{% if page.comments %}
+{%include disqus.html %}
+{% endif %}

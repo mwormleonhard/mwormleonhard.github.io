@@ -6,6 +6,7 @@ tags:
 - Køkkenkemi
 - Teaser
 - Kromatografi
+comments: true
 ---
 
 
