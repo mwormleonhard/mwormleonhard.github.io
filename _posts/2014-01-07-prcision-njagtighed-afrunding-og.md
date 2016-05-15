@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Præcision, nøjagtighed, afrunding og tilnærmelser
 date: '2014-01-07T21:19:00.001+01:00'

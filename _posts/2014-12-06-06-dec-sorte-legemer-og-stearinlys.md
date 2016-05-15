@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '06 DEC: Sorte legemer og stearinlys'
 date: '2014-12-06T10:00:00.000+01:00'

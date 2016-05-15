@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Er jeg en outlier?
 date: '2015-01-18T19:27:00.000+01:00'

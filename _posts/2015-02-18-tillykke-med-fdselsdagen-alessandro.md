@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Tillykke med fødselsdagen, Alessandro!
 date: '2015-02-18T21:08:00.000+01:00'

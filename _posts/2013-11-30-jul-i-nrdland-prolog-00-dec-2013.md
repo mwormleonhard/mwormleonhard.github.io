@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: 'Jul i Nørdland - Prolog: 00 DEC 2013'
 date: '2013-11-30T23:30:00.000+01:00'

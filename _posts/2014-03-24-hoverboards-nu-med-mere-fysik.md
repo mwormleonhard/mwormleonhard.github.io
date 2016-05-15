@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Hoverboards - nu med mere fysik
 date: '2014-03-24T20:44:00.000+01:00'

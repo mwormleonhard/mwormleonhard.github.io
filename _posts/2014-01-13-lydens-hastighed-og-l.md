@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Lydens hastighed - og øl!
 date: '2014-01-13T20:34:00.000+01:00'

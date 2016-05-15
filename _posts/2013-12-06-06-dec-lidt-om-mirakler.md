@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '06 DEC: Lidt om mirakler'
 date: '2013-12-06T10:00:00.000+01:00'

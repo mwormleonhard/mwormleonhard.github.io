@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: 'Den klæbrige sok: Statisk elektricitet og dens egenskaber'
 date: '2014-02-24T21:35:00.000+01:00'

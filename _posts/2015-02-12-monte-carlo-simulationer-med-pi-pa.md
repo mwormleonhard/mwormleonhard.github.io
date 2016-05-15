@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: 'Monte Carlo-simulationer: Med \(\pi\) på casino?'
 date: '2015-02-12T21:15:00.002+01:00'

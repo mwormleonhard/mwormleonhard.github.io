@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Dimensionsanalyse og stegning af kalkuner
 date: '2015-02-03T00:23:00.000+01:00'

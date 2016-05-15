@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '18 DEC: Hvid jul og blå himmel'
 date: '2013-12-18T10:00:00.000+01:00'

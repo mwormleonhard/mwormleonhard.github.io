@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Modellering af popcornpopning
 date: '2013-08-21T23:15:00.000+02:00'

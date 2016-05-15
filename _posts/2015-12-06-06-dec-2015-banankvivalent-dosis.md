@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '06 DEC 2015: Bananækvivalent dosis'
 date: '2015-12-06T22:42:00.000+01:00'

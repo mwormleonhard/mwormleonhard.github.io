@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '10 DEC 2015: Spændingen stiger'
 date: '2015-12-10T20:18:00.002+01:00'

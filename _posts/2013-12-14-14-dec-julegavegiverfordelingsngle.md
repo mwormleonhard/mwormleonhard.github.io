@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '14 DEC: Julegavegiverfordelingsnøgle'
 date: '2013-12-14T10:00:00.000+01:00'

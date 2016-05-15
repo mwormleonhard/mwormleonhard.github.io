@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Varm øl og kold kaffe
 date: '2013-07-15T20:16:00.000+02:00'

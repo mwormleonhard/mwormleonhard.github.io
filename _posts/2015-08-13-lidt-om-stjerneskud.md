@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Lidt om stjerneskud
 date: '2015-08-13T02:28:00.000+02:00'

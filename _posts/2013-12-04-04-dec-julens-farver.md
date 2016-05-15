@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '04 DEC: Julens farver'
 date: '2013-12-04T10:00:00.000+01:00'

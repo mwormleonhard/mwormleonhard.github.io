@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '11 DEC: En venstrehåndssnaps, tak - uden sanktpetersyre '
 date: '2014-12-11T10:00:00.000+01:00'

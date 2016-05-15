@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '01 DEC: Juletræer og fraktaler'
 date: '2014-12-01T10:00:00.000+01:00'

@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '07 DEC: Brunt og brændt'
 date: '2013-12-07T10:00:00.000+01:00'

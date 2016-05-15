@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Hvor langt væk er horisonten?
 date: '2013-11-18T17:45:00.000+01:00'

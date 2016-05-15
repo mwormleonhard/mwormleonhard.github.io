@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '08 DEC 2015: En ordentlig ladning - og så så hurtigt!'
 date: '2015-12-08T23:26:00.001+01:00'

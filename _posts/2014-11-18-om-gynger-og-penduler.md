@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Om gynger og penduler
 date: '2014-11-18T14:08:00.000+01:00'

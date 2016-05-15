@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Gæt rigtigt! - om tis, Enrico Fermi og bagsiden af en kuvert
 date: '2013-06-18T19:48:00.001+02:00'

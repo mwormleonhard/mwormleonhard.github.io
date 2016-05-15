@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Benfords lov
 date: '2013-05-26T18:45:00.000+02:00'

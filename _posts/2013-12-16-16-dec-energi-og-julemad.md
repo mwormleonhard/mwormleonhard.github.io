@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '16 DEC: Energi og julemad'
 date: '2013-12-16T10:00:00.000+01:00'

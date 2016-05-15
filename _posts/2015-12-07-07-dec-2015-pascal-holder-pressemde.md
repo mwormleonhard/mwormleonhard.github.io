@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '07 DEC 2015: Pascal holder pressemøde'
 date: '2015-12-07T23:39:00.002+01:00'

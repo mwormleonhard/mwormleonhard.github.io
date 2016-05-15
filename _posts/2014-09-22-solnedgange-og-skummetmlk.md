@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Solnedgange og skummetmælk
 date: '2014-09-22T20:27:00.000+02:00'

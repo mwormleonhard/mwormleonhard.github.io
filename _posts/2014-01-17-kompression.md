@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Kompression
 date: '2014-01-17T16:26:00.001+01:00'

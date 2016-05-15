@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '16 DEC: Sennep, peberrod og chili'
 date: '2014-12-16T10:00:00.000+01:00'

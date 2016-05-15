@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Varmt, vådt og klæbrigt gummi
 date: '2015-05-22T22:39:00.000+02:00'

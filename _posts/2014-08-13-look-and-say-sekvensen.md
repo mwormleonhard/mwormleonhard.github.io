@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Look-and-say sekvensen
 date: '2014-08-13T16:56:00.001+02:00'

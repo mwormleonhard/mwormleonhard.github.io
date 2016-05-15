@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Hvordan man undgår at spørge en kvinde hvad hun vejer...
 date: '2015-02-04T19:50:00.000+01:00'

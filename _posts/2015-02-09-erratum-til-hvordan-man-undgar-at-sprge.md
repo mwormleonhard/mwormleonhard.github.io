@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Erratum til "Hvordan man undgår at spørge en kvinde hvad hun vejer..."
 date: '2015-02-09T21:39:00.000+01:00'

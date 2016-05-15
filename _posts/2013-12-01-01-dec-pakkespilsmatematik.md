@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '01 DEC: Pakkespilsmatematik'
 date: '2013-12-01T10:00:00.000+01:00'

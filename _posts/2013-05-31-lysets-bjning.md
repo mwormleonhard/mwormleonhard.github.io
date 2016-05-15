@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Lysets bøjning
 date: '2013-05-31T10:24:00.000+02:00'

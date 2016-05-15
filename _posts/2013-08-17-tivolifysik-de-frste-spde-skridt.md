@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Tivolifysik - de første spæde skridt
 date: '2013-08-17T18:21:00.002+02:00'

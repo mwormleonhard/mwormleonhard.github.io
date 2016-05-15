@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Smag på regnbuen?
 date: '2015-04-27T23:25:00.000+02:00'

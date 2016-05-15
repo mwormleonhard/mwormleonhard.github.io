@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Hookes lov for postelastikker
 date: '2014-05-25T00:15:00.000+02:00'

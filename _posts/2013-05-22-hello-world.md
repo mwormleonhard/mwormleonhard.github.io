@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Hello World!
 date: '2013-05-22T23:09:00.000+02:00'

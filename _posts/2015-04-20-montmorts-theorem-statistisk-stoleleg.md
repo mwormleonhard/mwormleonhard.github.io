@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: 'Montmort’s Theorem: Statistisk stoleleg'
 date: '2015-04-20T21:40:00.001+02:00'

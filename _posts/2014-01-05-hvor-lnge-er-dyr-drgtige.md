@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Hvor længe er dyr drægtige?
 date: '2014-01-05T21:45:00.000+01:00'

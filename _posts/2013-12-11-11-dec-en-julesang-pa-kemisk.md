@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '11 DEC: En julesang på kemisk'
 date: '2013-12-11T10:00:00.000+01:00'

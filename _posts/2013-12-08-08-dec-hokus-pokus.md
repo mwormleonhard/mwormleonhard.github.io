@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '08 DEC: Hokus pokus!'
 date: '2013-12-08T10:00:00.000+01:00'

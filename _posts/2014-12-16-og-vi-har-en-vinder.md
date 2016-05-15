@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Og vi har en vinder!
 date: '2014-12-16T20:58:00.003+01:00'

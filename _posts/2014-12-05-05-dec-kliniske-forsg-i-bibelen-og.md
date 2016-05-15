@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '05 DEC: Kliniske forsøg i bibelen og liderlige kartofler'
 date: '2014-12-05T10:00:00.000+01:00'

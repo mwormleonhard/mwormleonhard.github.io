@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: 'Oh, Chemistree, Oh, chemistree... '
 date: '2014-10-20T18:16:00.000+02:00'

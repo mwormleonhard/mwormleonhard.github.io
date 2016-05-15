@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: 'Ingeniørporno: Gættepinde og logaritmer'
 date: '2015-02-02T20:07:00.000+01:00'

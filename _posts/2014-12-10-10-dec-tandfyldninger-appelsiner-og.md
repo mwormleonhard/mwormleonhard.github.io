@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '10 DEC: Tandfyldninger, appelsiner og småkager'
 date: '2014-12-10T10:00:00.000+01:00'

@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Kan man stikke ild til en permyntepastil?
 date: '2015-10-21T22:22:00.000+02:00'

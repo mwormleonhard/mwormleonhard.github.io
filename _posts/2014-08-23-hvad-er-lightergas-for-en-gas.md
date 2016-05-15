@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Hvad er lightergas for en gas?
 date: '2014-08-23T21:28:00.000+02:00'

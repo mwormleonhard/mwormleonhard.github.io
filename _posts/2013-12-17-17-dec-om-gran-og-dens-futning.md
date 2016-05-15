@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '17 DEC: Om gran og dens futning'
 date: '2013-12-17T10:00:00.000+01:00'

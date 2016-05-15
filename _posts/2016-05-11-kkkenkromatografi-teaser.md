@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title:  "Køkkenkromatografi: Forstudie" 
 date:   2016-05-11

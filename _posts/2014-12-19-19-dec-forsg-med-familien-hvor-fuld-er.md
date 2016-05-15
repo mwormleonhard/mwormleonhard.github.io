@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: '19 DEC: Forsøg med familien - Hvor fuld er din onkel?'
 date: '2014-12-19T10:00:00.000+01:00'

@@ -1,4 +1,5 @@
 ---
+comments:true
 layout: post
 title: Peter Sommers halveringstid
 date: '2014-01-22T19:09:00.000+01:00'
