@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: 'Ølkøling: Forstudie til festival'
 date: '2013-08-05T23:24:00.000+02:00'

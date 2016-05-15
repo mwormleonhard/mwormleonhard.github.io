@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: '15 DEC: Et snedigt antispildsaggregat'
 date: '2014-12-15T10:00:00.000+01:00'

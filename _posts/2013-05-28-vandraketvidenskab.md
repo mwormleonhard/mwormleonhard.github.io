@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: Vandraketvidenskab
 date: '2013-05-28T20:31:00.000+02:00'

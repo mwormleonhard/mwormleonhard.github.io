@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: Lidt om plat og krone
 date: '2013-05-24T08:22:00.000+02:00'

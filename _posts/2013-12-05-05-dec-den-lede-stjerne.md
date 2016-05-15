@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: '05 DEC: Den lede stjerne'
 date: '2013-12-05T10:00:00.000+01:00'

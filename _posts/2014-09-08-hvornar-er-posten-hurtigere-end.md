@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: "(Hvornår) Er posten hurtigere end internettet?"
 date: '2014-09-08T23:41:00.000+02:00'

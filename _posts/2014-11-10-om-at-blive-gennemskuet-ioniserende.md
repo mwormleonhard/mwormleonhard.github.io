@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: Om at blive gennemskuet - ioniserende stråling og kameraer
 date: '2014-11-10T20:18:00.000+01:00'

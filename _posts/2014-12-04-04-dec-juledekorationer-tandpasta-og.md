@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: '04 DEC: Juledekorationer, tandpasta og mayonnaise'
 date: '2014-12-04T10:00:00.000+01:00'

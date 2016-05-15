@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: Lys, lygter og afstande
 date: '2013-09-24T22:17:00.000+02:00'

@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: Magnetfeltstyrkemåling med mobiltelefon
 date: '2013-05-23T16:50:00.001+02:00'

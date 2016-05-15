@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: Gæt et tal &mdash; for let øvede
 date: '2015-02-01T14:44:00.000+01:00'

@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: '17 DEC 2015: Death, not taxes'
 date: '2015-12-17T19:45:00.000+01:00'

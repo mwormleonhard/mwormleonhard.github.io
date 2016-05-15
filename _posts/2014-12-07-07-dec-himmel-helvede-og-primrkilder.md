@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: '07 DEC: Himmel, helvede og primærkilder'
 date: '2014-12-07T10:00:00.000+01:00'

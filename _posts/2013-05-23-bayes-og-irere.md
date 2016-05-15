@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: Bayes og Irere
 date: '2013-05-23T18:46:00.000+02:00'

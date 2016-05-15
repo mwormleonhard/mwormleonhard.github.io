@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: Eksperimenter med formater og indhold
 date: '2015-10-19T22:31:00.000+02:00'

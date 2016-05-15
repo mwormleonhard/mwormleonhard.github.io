@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: '18 DEC: Fuld fart frem!'
 date: '2014-12-18T10:00:00.000+01:00'

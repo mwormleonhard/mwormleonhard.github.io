@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: Hvor stor er en bøvs?
 date: '2014-10-24T19:06:00.001+02:00'

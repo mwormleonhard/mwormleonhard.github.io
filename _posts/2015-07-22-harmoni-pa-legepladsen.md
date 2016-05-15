@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: Harmoni på legepladsen
 date: '2015-07-22T22:13:00.000+02:00'

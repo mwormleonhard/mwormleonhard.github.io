@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: At stege pandekager og regne på ting der ikke sker
 date: '2013-08-13T00:07:00.000+02:00'

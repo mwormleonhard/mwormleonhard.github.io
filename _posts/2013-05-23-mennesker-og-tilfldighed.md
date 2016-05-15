@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: Mennesker og tilfældighed
 date: '2013-05-23T00:34:00.000+02:00'

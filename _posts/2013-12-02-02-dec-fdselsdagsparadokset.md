@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: '02 DEC: Fødselsdagsparadokset'
 date: '2013-12-02T10:00:00.000+01:00'

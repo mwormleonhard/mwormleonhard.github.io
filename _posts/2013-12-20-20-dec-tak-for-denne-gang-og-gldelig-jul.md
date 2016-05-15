@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: '20 DEC: Tak for denne gang - og glædelig jul!'
 date: '2013-12-20T10:00:00.000+01:00'

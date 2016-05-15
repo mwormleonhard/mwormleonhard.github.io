@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: '17 DEC: Bevarelse af bevægelsesmængde - Nu med mere kat'
 date: '2014-12-17T10:00:00.000+01:00'

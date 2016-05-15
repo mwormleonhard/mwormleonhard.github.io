@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: '14 DEC: Hvem kalder du et kodehoved?'
 date: '2014-12-14T10:00:00.000+01:00'

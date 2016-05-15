@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: '01 DEC 2015: Kilogram - og en introduktion'
 date: '2015-12-02T00:34:00.000+01:00'

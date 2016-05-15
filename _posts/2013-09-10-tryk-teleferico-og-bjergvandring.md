@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: Tryk, teleférico og bjergvandring
 date: '2013-09-10T20:06:00.000+02:00'

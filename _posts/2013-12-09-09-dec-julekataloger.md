@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: '09 DEC: Julekataloger'
 date: '2013-12-09T10:00:00.000+01:00'

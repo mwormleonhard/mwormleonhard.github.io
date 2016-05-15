@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: 'Fra arkivet: ACH! Zombies!'
 date: '2013-07-15T23:27:00.001+02:00'

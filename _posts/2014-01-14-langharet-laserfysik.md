@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: Langhåret laserfysik
 date: '2014-01-14T19:31:00.000+01:00'

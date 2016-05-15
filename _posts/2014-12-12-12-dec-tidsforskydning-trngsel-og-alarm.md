@@ -1,5 +1,5 @@
 ---
-comments:true
+comments: true
 layout: post
 title: '12 DEC: Tidsforskydning, trængsel og alarm'
 date: '2014-12-12T10:00:00.000+01:00'
