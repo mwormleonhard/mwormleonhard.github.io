@@ -4,7 +4,6 @@ title: Søg og find
 permalink: /find/
 ---
 
-<!--
 ## Søg på hele www.labnoter.dk
 
 Viderestiller til google-søgning, med parameteren site:labnoter.dk.
@@ -15,7 +14,6 @@ onclick="location.href='http://www.google.com/search?q=site:labnoter.dk+' + docu
 >
 Søg!
 </button>
--->
 
 ## Emner
 
