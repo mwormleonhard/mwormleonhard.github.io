@@ -46,7 +46,7 @@ hvis bare man har punkter nok så burde fejlen udjævnes.[^2]
 Så efter en halv times tid med et excelark og et par besværgelser i
 RStudio havde jeg følgende plotsæt (klik for at forstørre):
 
-[![]({{site.url}}/images/-ej4unP21bAY/Usm2bKhrNgI/AAAAAAAAB_o/uCgP_uFwCqg/s400/Rplot1.png)]({{site.url}}/images/-ej4unP21bAY/Usm2bKhrNgI/AAAAAAAAB_o/uCgP_uFwCqg/s1600/Rplot1.png)
+[![]({{site.url}}/images/b5f24d1110680f718a7636c86707e7de.png)]({{site.url}}/images/c686750a036abdec6f68966f7d7b5897.png)
 
 Alle graferne viser de samme data --- drægtighedsperiode i døgn, som
 funktion af kropsvægt i kg. Det er kun akserne der er forskel på.
@@ -97,11 +97,11 @@ Plottene er medtaget
 herunder for fuldstændighedens skyld, men spring dem bare over, med
 mindre du er datanørd.
 
-[![]({{site.url}}/images/-XrzvmLaAfYE/Usm8ZWJKA6I/AAAAAAAAB_4/oOgzlofi0s0/s400/Rplot2.png)]({{site.url}}/images/-XrzvmLaAfYE/Usm8ZWJKA6I/AAAAAAAAB_4/oOgzlofi0s0/s1600/Rplot2.png)
+[![]({{site.url}}/images/c8cf17600668dd9f6e1779977604bd10.png)]({{site.url}}/images/190a78a9b2e7544aab50ba2cbe3259e5.png)
 
 Her er det dobbeltlogaritmiske plot med den fittede linie indsat:
 
-[![]({{site.url}}/images/-ZhpBiYB7kAI/Usm8Zc_XWGI/AAAAAAAAB_8/-5Lrj4_USrw/s400/Rplot3.png)]({{site.url}}/images/-ZhpBiYB7kAI/Usm8Zc_XWGI/AAAAAAAAB_8/-5Lrj4_USrw/s1600/Rplot3.png)
+[![]({{site.url}}/images/193877027051c3c4e8bd35647ff49f22.png)]({{site.url}}/images/2f55707bf2ae5f9b52c2daf2229d6f0d.png)
 
 At drægtighedsperiode er proportional med kropsvægt opløftet til 0.274
 er et lidt mystisk resultat ved første øjekast --- en potens et sted

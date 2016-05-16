@@ -17,7 +17,7 @@ For nylig fik jeg (atter) mystiske ting tilsendt med intern post - og
 tak for det!  
 Det drejer sig om følgende:
 
-[![]({{site.url}}/images/-xm_r9ESRuhQ/VEUp430ACHI/AAAAAAAACfE/xmDBF2I2Yxk/s1600/2014-10-19%2B23.25.54.jpg)]({{site.url}}/images/-xm_r9ESRuhQ/VEUp430ACHI/AAAAAAAACfE/xmDBF2I2Yxk/s1600/2014-10-19%2B23.25.54.jpg)
+[![]({{site.url}}/images/fa5972e859198b36f2ebfc2d1872493d.jpg)]({{site.url}}/images/fa5972e859198b36f2ebfc2d1872493d.jpg)
 
 Nu vil jeg jo gerne opponere, hver gang velkendte videnskabelige
 fænomener pakkes ind i magi, da det jo kun kan fremmedgøre folk
@@ -40,13 +40,13 @@ håndfuld timer (timelapse, 300x hastighed):
 Derefter løb min staveplade tør for strøm og det var alligevel sengetid,
 men næste morgen så det således ud:
 
-[![]({{site.url}}/images/-byR53gO5aVs/VEUsK-azlII/AAAAAAAACfQ/Yt85oaQ4WR4/s1600/2014-10-20%2B08.54.03.jpg)]({{site.url}}/images/-byR53gO5aVs/VEUsK-azlII/AAAAAAAACfQ/Yt85oaQ4WR4/s1600/2014-10-20%2B08.54.03.jpg)
+[![]({{site.url}}/images/0f7846157ae0afbc94d4f2a407d572b9.jpg)]({{site.url}}/images/0f7846157ae0afbc94d4f2a407d572b9.jpg)
 
 Og da jeg kom hjem fra det dérsens arbejde var der sket en smule mere,
 men til gengæld var træet allerede begyndt at drysse, og så kunne jeg jo
 ligeså godt skrive lidt om det...:
 
-[![]({{site.url}}/images/-vXD-nEO4h5Y/VEUsb4leyMI/AAAAAAAACfY/5eA9rbtrh34/s1600/2014-10-20%2B16.54.26.jpg)]({{site.url}}/images/-vXD-nEO4h5Y/VEUsb4leyMI/AAAAAAAACfY/5eA9rbtrh34/s1600/2014-10-20%2B16.54.26.jpg)
+[![]({{site.url}}/images/5e06b474977b8cdf64a9e4fadffec8a6.jpg)]({{site.url}}/images/5e06b474977b8cdf64a9e4fadffec8a6.jpg)
 
 Der er to fænomener der umiddelbart springer i øjnene som interessante:
 Hvorfor dannes krystalklyngerne kun/mest på spidserne af træet og

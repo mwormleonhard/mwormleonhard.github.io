@@ -75,7 +75,7 @@ plast-pasteur-pipette[^7]) fik vi endelig noget der på en god dag og
 med medvind og solen i ryggen[^8] kunne betegnes som en kun lidt
 plumret regnbue:
 
-[![]({{site.url}}/images/-XfDZhO_11B8/VT6emKUgdII/AAAAAAAAC0c/PFSTWOKYIDA/s1600/2015-04-24%2B21.20.02_crop.jpg)]({{site.url}}/images/-XfDZhO_11B8/VT6emKUgdII/AAAAAAAAC0c/PFSTWOKYIDA/s1600/2015-04-24%2B21.20.02_crop.jpg)
+[![]({{site.url}}/images/1287dffda72cd25f7e82fd4383d7a895.jpg)]({{site.url}}/images/1287dffda72cd25f7e82fd4383d7a895.jpg)
 (Billedet er beskåret for at beskytte identiteterne på de (u)skyldige)
 
 Så efter at jeg havde taget en prøve på 1mL af hver, og vi havde klappet
@@ -100,7 +100,7 @@ ville opblandes, men i stedet kom ud som en bolus til sidst, hvilket fik
 resultatet til at minde mere om en solnedgang end en regnbue, om end
 stadig ret plumret hen mod slutningen... Nå, det blev vel overskyet...
 
-[![]({{site.url}}/images/-44lvH4TIP_k/VT6hy-fF0MI/AAAAAAAAC0o/fk5JHXgnS6I/s1600/2015-04-24%2B21.47.20_crop.jpg)]({{site.url}}/images/-44lvH4TIP_k/VT6hy-fF0MI/AAAAAAAAC0o/fk5JHXgnS6I/s1600/2015-04-24%2B21.47.20_crop.jpg)
+[![]({{site.url}}/images/4af73047c6baa68c2f3806438312577b.jpg)]({{site.url}}/images/4af73047c6baa68c2f3806438312577b.jpg)
 
 Denne serie blev på samme måde underkastet invasiv prøvetagning, inden
 den på human vis blev aflivet.
@@ -129,7 +129,7 @@ gangs skyld!
 På nedenstående graf ses alkoholkoncentrationen i procent på Y-aksen og
 glasnummeret på X-aksen. R1 og R2 er de to serier afbilledet ovenfor.
 
-[![]({{site.url}}/images/-cojDxiW-zzI/VT6lccy5-tI/AAAAAAAAC00/wxcpZstjsmM/s1600/rainbowplot.png)]({{site.url}}/images/-cojDxiW-zzI/VT6lccy5-tI/AAAAAAAAC00/wxcpZstjsmM/s1600/rainbowplot.png)
+[![]({{site.url}}/images/465a14edb541ae3453d408af1e8a0d08.png)]({{site.url}}/images/465a14edb541ae3453d408af1e8a0d08.png)
 
 Ud fra de samlede data kan vi altså konkludere at hvis det primære mål
 er at indtage så meget alkohol som muligt, så skal man tage de første

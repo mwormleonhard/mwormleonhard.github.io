@@ -42,5 +42,5 @@ der er mange af de gamle der (også) er værd at se.
 
 PPS: Tak for jeres tålmodighed. Her er et billede af en kat:
 
-[![]({{site.url}}/images/-XI-E83CfCXE/VnqzOdoD44I/AAAAAAAADXY/C96Kij4FpD8/s320/2015-08-04%2B20.07.47.jpg)]({{site.url}}/images/-XI-E83CfCXE/VnqzOdoD44I/AAAAAAAADXY/C96Kij4FpD8/s1600/2015-08-04%2B20.07.47.jpg)
+[![]({{site.url}}/images/ce4dd6430a45b8b730c713b5be5337d7.jpg)]({{site.url}}/images/0da1a2f9556c45e9c1f26d8cd9543c36.jpg)
 

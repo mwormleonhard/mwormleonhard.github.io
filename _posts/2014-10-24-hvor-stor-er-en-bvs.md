@@ -75,7 +75,7 @@ regne på det koblede ligevægssystem, men nu er jeg heldigvis blevet
 ingeniør med ret til at måle i træskolænger, og derfor dyppede jeg
 straks noget pH-papir i hhv. min øl og noget cola og fik følgende:
 
-[![]({{site.url}}/images/-pCfzrTvpIdk/VEp86lmzSPI/AAAAAAAACfs/jORE_ILZ3wA/s1600/2014-10-24%2B17.50.02.jpg)]({{site.url}}/images/-pCfzrTvpIdk/VEp86lmzSPI/AAAAAAAACfs/jORE_ILZ3wA/s1600/2014-10-24%2B17.50.02.jpg)
+[![]({{site.url}}/images/d0d45ebb563e904b7fff16bfc874e889.jpg)]({{site.url}}/images/d0d45ebb563e904b7fff16bfc874e889.jpg)
 
 Nemlig at pH i øl er ca. 4 og i cola ca. 2. I begge tilfælde er vi mere
 end 2 enheder under den effektive pKa for kulsyre, og ligevægten er

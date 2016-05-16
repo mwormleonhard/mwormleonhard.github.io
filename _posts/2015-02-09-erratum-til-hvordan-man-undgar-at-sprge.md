@@ -92,7 +92,7 @@ skøn(heds) behandling.. Ikke at hun på nogen måde har behov for det, men
 man skal jo huske at forkæle dem. Hun er malet i rød på den medfølgende
 stregtegning.
 
-[![]({{site.url}}/images/-apvXiGPdagI/VNkNJuNTk1I/AAAAAAAACoo/Ue2K8ssbPXo/s1600/WL-tegning.png)]({{site.url}}/images/-apvXiGPdagI/VNkNJuNTk1I/AAAAAAAACoo/Ue2K8ssbPXo/s1600/WL-tegning.png)
+[![]({{site.url}}/images/8cf47f6e874391508c8a8e7da986bc68.png)]({{site.url}}/images/8cf47f6e874391508c8a8e7da986bc68.png)
 
 Siden hun er i balance, ved vi at hendes vridningsmoment må være nul.
 Altså skal bidraget til hendes vridningsmoment fra tyngdekraften

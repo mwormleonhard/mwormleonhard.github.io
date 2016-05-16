@@ -25,7 +25,7 @@ løsninger.
 Der er dog af og til nogle enkelte bivirkninger, som det kan ses af
 nedenstående flowcharts.[^1]
 
-[![]({{site.url}}/images/-OdgZAdNWneM/VI2Nj7Adu1I/AAAAAAAACjY/xVh_HuJvu5E/s1600/1966218_10152874159086840_5516759861833684799_o.jpg)]({{site.url}}/images/-OdgZAdNWneM/VI2Nj7Adu1I/AAAAAAAACjY/xVh_HuJvu5E/s1600/1966218_10152874159086840_5516759861833684799_o.jpg)
+[![]({{site.url}}/images/497d9ca5ac3efeae4a00fcffbcd4b0e0.jpg)]({{site.url}}/images/497d9ca5ac3efeae4a00fcffbcd4b0e0.jpg)
 
 Nå, men jeg har jo tidligere diskuteret [fluid dynamik og
 skum](http://labnoter.blogspot.dk/2014/12/03-dec-julel-og-kaffespild.html)s
@@ -46,7 +46,7 @@ så skal du såmænd bare bruge en håndfuld elastikker, og hænge din kop op
 / bære den sådan her[^5]:
 
 
-[![]({{site.url}}/images/-wCGWJ1Mn5O4/VI2SF5XY_DI/AAAAAAAACjk/sxpUrnnDcTE/s1600/2014-12-14%2B14.31.57.jpg)]({{site.url}}/images/-wCGWJ1Mn5O4/VI2SF5XY_DI/AAAAAAAACjk/sxpUrnnDcTE/s1600/2014-12-14%2B14.31.57.jpg)
+[![]({{site.url}}/images/fbfd627b248cd5aabd065f7bd0d50817.jpg)]({{site.url}}/images/fbfd627b248cd5aabd065f7bd0d50817.jpg)
 
 Første gang jeg så det troede jeg heller ikke helt på det, men jeg har
 just gået strækmarch rundt i stuen og på andre måder simuleret

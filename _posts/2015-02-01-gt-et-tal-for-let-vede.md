@@ -81,7 +81,7 @@ Vi fik følgende gæt (ordnet i stigende rækkefølge):
 
 Hvis mønsteret ikke er klart, så har jeg tegnet et lille histogram:
 
-[![]({{site.url}}/images/-sonv2SsKOFo/VM4qsofvvNI/AAAAAAAAClU/fuKrhWRz0T4/s1600/g%C3%A6t.png)]({{site.url}}/images/-sonv2SsKOFo/VM4qsofvvNI/AAAAAAAAClU/fuKrhWRz0T4/s1600/g%C3%A6t.png)
+[![]({{site.url}}/images/5fcc6c12dad6d1d70f540ff13257391d.png)]({{site.url}}/images/5fcc6c12dad6d1d70f540ff13257391d.png)
 
 Heraf ses det lidt tydeligere at der er en klar og tydelig
 klyngedannelse i den nederste tredjedel, ganske som forventet, men også

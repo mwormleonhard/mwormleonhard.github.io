@@ -46,7 +46,7 @@ masser af fine features, som fx muligheden for at foretage
 frekvensanalyse på det optagede - og det ser så sådan ud i dette
 tilfælde:
 
-[![]({{site.url}}/images/-GJLVo--F58A/UtQ1CMWJHzI/AAAAAAAACBg/nPrp-Ncr98I/s400/oelflaske.png)]({{site.url}}/images/-GJLVo--F58A/UtQ1CMWJHzI/AAAAAAAACBg/nPrp-Ncr98I/s1600/oelflaske.png)
+[![]({{site.url}}/images/1b1f14b52814a5b641551bbea09f0ca8.png)]({{site.url}}/images/3f77b0f5825414fb2301631774fd6b8b.png)
 
 Herudfra kunne jeg udlede at grundtonen (den store top) var 169Hz, og
 hvad det svarer til i toner, om noget, skal jeg ikke kunne sige.

@@ -52,7 +52,7 @@ holder håret udstrakt, og man kan se hvor laseren rammer håret, ved at
 der er en lysere plet pga. spredt lys. Det så cirka sådan her ud (den
 anden limklemme holder aftrækkeren inde på laseren):
 
-[![]({{site.url}}/images/-Ka6PF-M5dlY/UtV4ICGu70I/AAAAAAAACBw/Gx_p1d7btWE/s400/2014-01-14+17.24.50.jpg)]({{site.url}}/images/-Ka6PF-M5dlY/UtV4ICGu70I/AAAAAAAACBw/Gx_p1d7btWE/s1600/2014-01-14+17.24.50.jpg)
+[![]({{site.url}}/images/384001cca322660a1adb0daa64dff5ab.jpg)]({{site.url}}/images/25e2777b978ccdc9140428d40fe1f677.jpg)
 
 Minsandten om der ikke straks dukkede et smukt diffraktionsmønster op på
 den modstående væg, i en sådan grad at jeg måtte klappe i mine fede
@@ -66,7 +66,7 @@ strålens center.
 Dette gentog jeg for hver hårdonor, og tog middelværdien af de to
 målinger for hver person.
 
-[![]({{site.url}}/images/-fWnlWxBzopk/UtV4I5if-HI/AAAAAAAACB0/UFLlgfHmplI/s400/2014-01-14+17.25.45.jpg)]({{site.url}}/images/-fWnlWxBzopk/UtV4I5if-HI/AAAAAAAACB0/UFLlgfHmplI/s1600/2014-01-14+17.25.45.jpg)
+[![]({{site.url}}/images/73b693ce4858c17dc1170ca74c6db6fb.jpg)]({{site.url}}/images/3b471b03de16b96adcd0425fce68c484.jpg)
 
 Udstyret med disse data, samt afstanden mellem opstilling og væg (255cm)
 og laserens bølgelængde (532nm) kan man begynde at regne, idet det vides

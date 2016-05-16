@@ -42,7 +42,7 @@ Opsamling og analyse af accelerationsdata er forholdsvist enkel[^4] og
 diskuteret flere andre steder i mine skriblerier, så lad os bare kaste
 de rå data på bordet:
 
-[![]({{site.url}}/images/-674i5HeGF0o/VGs728X1DjI/AAAAAAAAChU/GsQ0u40FT5Q/s1600/Gynge-alle.png)]({{site.url}}/images/-674i5HeGF0o/VGs728X1DjI/AAAAAAAAChU/GsQ0u40FT5Q/s1600/Gynge-alle.png)
+[![]({{site.url}}/images/97f3d02d232ff00dcc21182ecebedaaf.png)]({{site.url}}/images/97f3d02d232ff00dcc21182ecebedaaf.png)
 
 Her ser vi jo straks at der er lidt fnidder i starten mens jeg kommer i
 stilling, og at efter at have svinget frit et lille minuts tid kunne jeg
@@ -50,7 +50,7 @@ ikke helt afholde mig fra at få lidt mere fart på, men det må være en
 diskussion/simulation til en anden dag. Hvis vi skærer alt det ikke helt
 regulære bort får vi:
 
-[![]({{site.url}}/images/-E96RjZKaIac/VGs8iaNaCRI/AAAAAAAAChc/6X4tlgViI8I/s1600/gynge-fri.png)]({{site.url}}/images/-E96RjZKaIac/VGs8iaNaCRI/AAAAAAAAChc/6X4tlgViI8I/s1600/gynge-fri.png)
+[![]({{site.url}}/images/9fbf37a798fde826f87e587cb44478f1.png)]({{site.url}}/images/9fbf37a798fde826f87e587cb44478f1.png)
 
 Og det er jo så smukt og periodisk at man må knibe en tåre (og undre sig
 over hvordan jeg sad stille så længe) og man kan jo allerede tælle at
@@ -60,7 +60,7 @@ mange formål, men nu har jeg jo ferie og derved god tid til at
 hyggenørde, så mon ikke en lille FFT / spektralanalyse var på sin plads,
 bare for at se om det er muligt og hvor "rene" data er. Ergo:
 
-[![]({{site.url}}/images/-_cuR2W7fFdQ/VGs-e2z7bnI/AAAAAAAACho/lpntDNQSYmU/s1600/gynge-spektrum.png)]({{site.url}}/images/-_cuR2W7fFdQ/VGs-e2z7bnI/AAAAAAAACho/lpntDNQSYmU/s1600/gynge-spektrum.png)
+[![]({{site.url}}/images/c67e415ac99feed90d07fc532c0db362.png)]({{site.url}}/images/c67e415ac99feed90d07fc532c0db362.png)
 
 Og minsandten om ikke det viser præcis det jeg troede og håbede --- én
 klar peak et sted nede mellem 0 og 0.5 Hz. Kaster man den rigtige

@@ -13,7 +13,7 @@ modified_time: '2013-09-29T17:00:00.125+02:00'
 blogger_id: tag:blogger.com,1999:blog-6363822545143881814.post-3556628995082371648
 blogger_orig_url: http://labnoter.blogspot.com/2013/05/lysets-bjning.html
 ---
-[![]({{site.url}}/images/-XqQJ4HeDjzE/UaelW7WwSzI/AAAAAAAABms/bOPkOHIUM7s/s320/laserb%C3%B8jcrop.jpg)]({{site.url}}/images/-XqQJ4HeDjzE/UaelW7WwSzI/AAAAAAAABms/bOPkOHIUM7s/s1600/laserb%C3%B8jcrop.jpg)
+[![]({{site.url}}/images/e89f37fddd9890fbda9d6e53da8cc0a9.jpg)]({{site.url}}/images/e89f37fddd9890fbda9d6e53da8cc0a9.jpg)
 
 At lyset kan brydes har vi jo alle observeret --- sætter man en ske i et
 glas vand ser det ud som om den "knækker" i overfladen, og hvis man
@@ -82,7 +82,7 @@ en nogenlunde jævn gradient, hvorefter den "knækker" / springer, idet
 den rammer grænsen til den endnu ikke opblandede sirup, som har en
 væsentlig større massefylde og derved bryder lyset kraftigere.
 
-[![]({{site.url}}/images/-m46YtXw8S6M/UafVCyI9eRI/AAAAAAAABnM/SJB2qEIXL-I/s400/2013-05-31+00.36.10.jpg)]({{site.url}}/images/-m46YtXw8S6M/UafVCyI9eRI/AAAAAAAABnM/SJB2qEIXL-I/s1600/2013-05-31+00.36.10.jpg)  
+[![]({{site.url}}/images/509fdb3830645a96de86876b799bee54.jpg)]({{site.url}}/images/8005961f004d6311b3c1cc87a199bf32.jpg)  
 Efter ca. 6 timer. Bemærk at laserstrålen rammer bordet ude til venstre for glasset.  
 Midt i væskesøjlen ses spejlbilledet af komfurets overflade. Dette skyldes også forskellen i brydningsindeks
 
@@ -119,7 +119,7 @@ på: <http://www.dr.dk/DR2/Danskernes+akademi/Natur_Matematik/Fysiklegestuen_fa
 Jeg synes dog alligevel det er helt hæderligt at opnå det her resultat ---
 opstillingen er jo ikke just raketvidenskab... ;-)
 
-  [![]({{site.url}}/images/-XcFqiRCvC4k/UafJxBZhOfI/AAAAAAAABm8/yaegqTWKr2c/s400/2013-05-30+20.18.28.jpg)]({{site.url}}/images/-XcFqiRCvC4k/UafJxBZhOfI/AAAAAAAABm8/yaegqTWKr2c/s1600/2013-05-30+20.18.28.jpg)  
+  [![]({{site.url}}/images/34106989ab5956b508248f85eb5a22d8.jpg)]({{site.url}}/images/e0f1981352e891a38464d2ae95fe5ef0.jpg)  
   Jeps - det er en kasse rødvin, mit kameraetui, en laserpointer, en limklemme, to grydelapper, et skærebræt, en skumgummiplade og mit gamle IXUS 50 med CHDK oven på mit komfur... Hvem har brug for et optisk bord?
 
 \\Worm

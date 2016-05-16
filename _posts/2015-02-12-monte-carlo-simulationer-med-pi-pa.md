@@ -57,7 +57,7 @@ sigte[^1] at kaste dartpile imod kvadratet[^2], så vil
 resterende vil ramme kvadratet udenfor cirklen, da dette er forholdet
 mellem deres arealer. En skitse er vist på sin plads:
 
-[![]({{site.url}}/images/-c8PZHQ-vh-A/VN0BT78ntrI/AAAAAAAACpA/ZYbEqwPTQNg/s1600/2015-02-12%2B20.35.26-2.jpg)]({{site.url}}/images/-c8PZHQ-vh-A/VN0BT78ntrI/AAAAAAAACpA/ZYbEqwPTQNg/s1600/2015-02-12%2B20.35.26-2.jpg)
+[![]({{site.url}}/images/a8b3964bcbe002cbc0fdb469b2fe8466.jpg)]({{site.url}}/images/a8b3964bcbe002cbc0fdb469b2fe8466.jpg)
 
 Hvis I nu bare ser bort fra at min cirkel er ret skæv og frihåndstegnet,
 så går det jo nok alt sammen.
@@ -82,7 +82,7 @@ en kvart dartskive --- resultatet er jo det samme, selvom man kun ser på
 første kvadrant og kastede fra 10 til \\(10^8\\) dartpile 100 gange hver, og
 plottede resultatet:
 
-[![]({{site.url}}/images/-5w-6sMVru9U/VN0FAMfmJFI/AAAAAAAACpM/Z9vqna-BHAk/s1600/montecarlopi.png)]({{site.url}}/images/-5w-6sMVru9U/VN0FAMfmJFI/AAAAAAAACpM/Z9vqna-BHAk/s1600/montecarlopi.png)
+[![]({{site.url}}/images/a17dfaf163ec7de878b4aca291d19860.png)]({{site.url}}/images/a17dfaf163ec7de878b4aca291d19860.png)
 
 Det ses nu relativt tydeligt at med 10, 100 og 1000 dartpile er der
 stadig en hel del spredning på de 100 estimater, men lige så snart vi

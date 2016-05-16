@@ -56,7 +56,7 @@ lad os nu bare lave nogle data, og se hvad vi får.
 Opstilling
 ----------
 
-[![]({{site.url}}/images/-coo3VYhTP9E/UkHqF9MVGxI/AAAAAAAAB00/VVQq9Fs-qz0/s400/IMG_0005.JPG)]({{site.url}}/images/-coo3VYhTP9E/UkHqF9MVGxI/AAAAAAAAB00/VVQq9Fs-qz0/s1600/IMG_0005.JPG)
+[![]({{site.url}}/images/ea6016f0239ce3c48cc34fcb5280a116.JPG)]({{site.url}}/images/6bf2c473eaa20faa4b8bb6fe573ce9db.JPG)
 
 Ja, det behøver ikke være så svært --- et tilnærmelsesvist mørklagt køkken
 (jaja, billedet er taget med blitz), en lettere kannibaliseret
@@ -99,7 +99,7 @@ sjove akser, hvis man vil forvisse sig om at jeg har ret.
 Men ikke desto mindre får man et Ret Pænt Resultat, selv med en sådan
 mængde videnskabelig uredelighed:
 
-[![]({{site.url}}/images/-IoP9SblnQuk/UkHuijurLnI/AAAAAAAAB1A/eRGYKfLppDU/s400/glodelampe.png)]({{site.url}}/images/-IoP9SblnQuk/UkHuijurLnI/AAAAAAAAB1A/eRGYKfLppDU/s1600/glodelampe.png)
+[![]({{site.url}}/images/af9a73f7b7c7b2cbb29b5350ee3ed302.png)]({{site.url}}/images/83e194d8813605362dc715f14716b952.png)
 
 Så min forudsigelse om "noget med anden potens" ser jo ud til at holde ---
 lysstyrken aftager nydeligt med afstanden i (cirka) anden potens, og det

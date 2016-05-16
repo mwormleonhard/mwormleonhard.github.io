@@ -16,7 +16,7 @@ De fleste har nok mødt en fraktal på et tidspunkt, eller som minimum set
 én i fangenskab. Den mest kendte er jo nok Mandelbrot-sættet, der ofte
 fremstilles grafisk på denne måde:
 
-[![]({{site.url}}/images/-Igu68rsyUDE/VHs094_Qc_I/AAAAAAAACiA/nmL6m6x2u2A/s1600/800px-Mandel_zoom_00_mandelbrot_set.jpg)]({{site.url}}/images/-Igu68rsyUDE/VHs094_Qc_I/AAAAAAAACiA/nmL6m6x2u2A/s1600/800px-Mandel_zoom_00_mandelbrot_set.jpg)
+[![]({{site.url}}/images/a5b841ef0996823122dbd4d396334a01.jpg)]({{site.url}}/images/a5b841ef0996823122dbd4d396334a01.jpg)
 Kilde: http://commons.wikimedia.org/wiki/File:Mandel_zoom_00_mandelbrot_set.jpg
 
 Det der kendetegner fraktaler er at de bliver ved med at se ens ud,
@@ -51,7 +51,7 @@ jo nok det klassiske:
 Hvis man forsøger at måle længden af et lands kystlinie, så ændrer
 resultatet sig, afhængigt af hvor lang din tommestok er!
 
-[![]({{site.url}}/images/-RL0TSpB7nfM/VHs52QoWr8I/AAAAAAAACiQ/9YzVHcG7hU8/s1600/Britain-fractal-coastline-combined.jpg)]({{site.url}}/images/-RL0TSpB7nfM/VHs52QoWr8I/AAAAAAAACiQ/9YzVHcG7hU8/s1600/Britain-fractal-coastline-combined.jpg)
+[![]({{site.url}}/images/5164e18e072a7dc4dec86dc789ea918e.jpg)]({{site.url}}/images/5164e18e072a7dc4dec86dc789ea918e.jpg)
 
 Herover er et billede jeg har hugget
 fra http://commons.wikimedia.org/wiki/File:Britain-fractal-coastline-combined.jpg

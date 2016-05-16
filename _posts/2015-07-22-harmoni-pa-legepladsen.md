@@ -32,7 +32,7 @@ Dér finder jeg mange sjove ting og muligheder... men jeg bliver
 alligevel fascineret af en af de der fjeder-gyngeheste --- i ved --- sådan
 en hér:
 
-[![]({{site.url}}/images/-akUIQKJB82c/Va_klGsx4VI/AAAAAAAADBQ/FHC7EiME8j0/s400/vlcsnap-2015-07-21-20h33m20s300.png)]({{site.url}}/images/-akUIQKJB82c/Va_klGsx4VI/AAAAAAAADBQ/FHC7EiME8j0/s1600/vlcsnap-2015-07-21-20h33m20s300.png)
+[![]({{site.url}}/images/a7f7d9b99ae2266d690d8a791dd1fcdd.png)]({{site.url}}/images/ba84216a10fdc50273b30347cb5d6ef1.png)
 
 Og jeg kom uvilkårligt til at tænke på at det jo med god tilnærmelse er
 (eller i hvert fald kunne være) en [dæmpet harmonisk
@@ -77,7 +77,7 @@ det var det også --- det svære var at nøjes med at finde én af dem --- og
 den samme hver gang. Så jeg endte med at finde hestens øje i stedet.
 Undevejs så et af mine adskillige aktive skriveborde således ud:
 
-[![]({{site.url}}/images/-PSgs_abg7G4/Va_ojIaq4wI/AAAAAAAADBc/AiDD5ihIYTs/s400/Screenshot%2Bfrom%2B2015-07-21%2B21%253A19%253A30.png)]({{site.url}}/images/-PSgs_abg7G4/Va_ojIaq4wI/AAAAAAAADBc/AiDD5ihIYTs/s1600/Screenshot%2Bfrom%2B2015-07-21%2B21%253A19%253A30.png)
+[![]({{site.url}}/images/08d6730504e58bcebbe1113ae852dab5.png)]({{site.url}}/images/9b94a612ba70996e74b01133fc53a8c1.png)
 
 Bemærk at jeg er gået i sort-hvid og har beskåret billedet ret kraftigt.
 Det er fordi det giver et meget mindre datasæt at analysere, og kan
@@ -94,7 +94,7 @@ millisekunder --- det er jo ret let at beregne, når man har 29.83 billeder
 i sekundet, så har man 33.52 ms per billede. R laver nogle udmærkede
 scatterplotmatricer til eksplorativ dataanalyse:
 
-[![]({{site.url}}/images/-5j9q723y3zo/Va_quC5gTbI/AAAAAAAADBo/t_31IJcKpSY/s400/gyngehest-scatterplot.png)]({{site.url}}/images/-5j9q723y3zo/Va_quC5gTbI/AAAAAAAADBo/t_31IJcKpSY/s1600/gyngehest-scatterplot.png)
+[![]({{site.url}}/images/fb793bcfcc99f443d4c87bc2da23da0e.png)]({{site.url}}/images/f16a261d8a19fa48cf20d362f2cf9d2f.png)
 
 Ud af dette lidt rodede billede kunne man se at det faktisk var
 placeringen af øjet på X-aksen som funktion af tid, der var mindst
@@ -104,14 +104,14 @@ trompet-/jointform uden alt for mange knæk[^6]
 Så lad os isolere denne, centrere den om nul (trække middelværdien fra)
 og se på de første par sekunder:
 
-[![]({{site.url}}/images/-sdGbnIJMG-E/Va_sXaoTPuI/AAAAAAAADB0/yNkeePXQY0c/s400/gyngehest-xtid.png)]({{site.url}}/images/-sdGbnIJMG-E/Va_sXaoTPuI/AAAAAAAADB0/yNkeePXQY0c/s1600/gyngehest-xtid.png)
+[![]({{site.url}}/images/757c6ceb949b9a564db32ed69b238289.png)]({{site.url}}/images/a1b211a060fb1384aed624df35b237fb.png)
 
 Og det er jo så smukt at man nærmest må knibe en tåre. Det er så ren en
 sinus/cosinus at man skulle tro jeg havde snydt.
 
 Ser man på hele forløbet, så ser det sådan ud:
 
-[![]({{site.url}}/images/-1S6EhYa99bQ/Va_tSLJdm5I/AAAAAAAADB8/Fd0grjT4KbA/s400/gyngehest-eyex-total.png)]({{site.url}}/images/-1S6EhYa99bQ/Va_tSLJdm5I/AAAAAAAADB8/Fd0grjT4KbA/s1600/gyngehest-eyex-total.png)
+[![]({{site.url}}/images/fee5bac39f1ff5a0b62118b977cc4486.png)]({{site.url}}/images/0363b6bfe2521965ed76581416e6c1e4.png)
 
 Og her kan man jo se følgende:
 
@@ -151,14 +151,14 @@ falde ned i[^7], men lidt kælen for modellen[^8] og nogle rimelige
 startbetingelser gav et ret godt fit... Faktisk endte det med at se
 sådan her ud for de første 10 sekunder:
 
-[![]({{site.url}}/images/-qO50gTft2wk/Va_yd7TKHqI/AAAAAAAADCM/NycXgJ1mkXE/s400/gyngehest-modelfit.png)]({{site.url}}/images/-qO50gTft2wk/Va_yd7TKHqI/AAAAAAAADCM/NycXgJ1mkXE/s1600/gyngehest-modelfit.png)
+[![]({{site.url}}/images/bacef8616fb5e6348cf1598396af9475.png)]({{site.url}}/images/8722887822b65fd8be975e5b124f5c24.png)
 
 Her er de røde +'er data og den sorte kurve er model --- den synes jeg
 godt jeg kan være bekendt.
 
 Det bliver lidt værre når man zoomer ud og ser på det i sin helhed:
 
-[![]({{site.url}}/images/-tS6sbZyZ-c0/Va_zqFjUUnI/AAAAAAAADCU/pPAH5Tqn7gA/s400/gyngehest-helmodel.png)]({{site.url}}/images/-tS6sbZyZ-c0/Va_zqFjUUnI/AAAAAAAADCU/pPAH5Tqn7gA/s1600/gyngehest-helmodel.png)
+[![]({{site.url}}/images/09d5c173aba7dbd194d86f23daf7b216.png)]({{site.url}}/images/8e632127c6ac309abe0ad0ec17204e1b.png)
 
 Her ses tydeligt at der er nogen afvigelse fra  virkeligeheden når vi
 kommer ud over de første 20 sekunder, men ikke desto mindre er fase og

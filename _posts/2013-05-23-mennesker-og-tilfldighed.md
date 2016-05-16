@@ -33,7 +33,7 @@ Hvis menneskene der svarer virkelig ER gode tilfældighedsgeneratorer, og
 der er nok der har svaret, så forventer jeg at et histogram over
 svarfrekvenser kommer til at se omtrent således ud:
 
-[![]({{site.url}}/images/-G2lrhK4db8A/UZ1ESvPuLxI/AAAAAAAABjs/W6s1dCn5KiI/s1600/teoriplot.jpg)]({{site.url}}/images/-G2lrhK4db8A/UZ1ESvPuLxI/AAAAAAAABjs/W6s1dCn5KiI/s1600/teoriplot.jpg)
+[![]({{site.url}}/images/0535bf9cf242c2a29a6bd5d9040c8070.jpg)]({{site.url}}/images/0535bf9cf242c2a29a6bd5d9040c8070.jpg)
 
 Altså at alle tal er ligeligt repræsenteret, men ikke nødvendigvis
 rammer præcis 10%. Ovenstående er en simuleret fordeling med 10.000
@@ -43,7 +43,7 @@ tilfælde, uden det nødvendigvis betyder noget.
 Som eksempel har jeg foretaget 4 simulationer, hvor der er udtrukket 70
 tilfældige tal i intervallet 1 til 10, og det gav følgende resultat:
 
-[![]({{site.url}}/images/-wQsQPcpUH_o/UZ1FDwjiirI/AAAAAAAABj4/b6Ht4rsPUGs/s1600/eksempelplots.jpg)]({{site.url}}/images/-wQsQPcpUH_o/UZ1FDwjiirI/AAAAAAAABj4/b6Ht4rsPUGs/s1600/eksempelplots.jpg)
+[![]({{site.url}}/images/5ea53e9c2f568cb0cb067e2e0d0d5c29.jpg)]({{site.url}}/images/5ea53e9c2f568cb0cb067e2e0d0d5c29.jpg)
 
 Disse ser ikke umiddelbart særligt jævnt fordelte ud, men ikke desto
 mindre består de en statistisk test for ensartethed. Netop fordi der er
@@ -57,7 +57,7 @@ tilfældigt.
 
 De data jeg fik ind fordelte sig således mellem 1 og 10:
 
-[![]({{site.url}}/images/-O1GtEE-OJFc/UZ1FH1aEciI/AAAAAAAABkA/_YeQaHRt-W0/s1600/plot-data.jpg)]({{site.url}}/images/-O1GtEE-OJFc/UZ1FH1aEciI/AAAAAAAABkA/_YeQaHRt-W0/s1600/plot-data.jpg)
+[![]({{site.url}}/images/e009c0432069af516ef60de83c3389cd.jpg)]({{site.url}}/images/e009c0432069af516ef60de83c3389cd.jpg)
 
 Dette ser ikke umiddelbart meget mere skævt ud end nogle af eksemplerne
 ovenfor, men hvis man laver den relevante statistiske test (chi i anden)

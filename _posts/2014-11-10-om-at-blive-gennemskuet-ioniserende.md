@@ -63,7 +63,7 @@ slå ud --- det ligner mest et dårligt billede af en nattehimmel,
 indersiden af en lomme eller en fejl i detektoren (hvilket det jo også
 simulerer), men der er signal!
 
-[![]({{site.url}}/images/-4rdh3Z8az3w/VGEFzd99i2I/AAAAAAAACgI/nwPPhUNeav4/s1600/vlcsnap-2014-11-10-19h32m46s855.jpg)]({{site.url}}/images/-4rdh3Z8az3w/VGEFzd99i2I/AAAAAAAACgI/nwPPhUNeav4/s1600/vlcsnap-2014-11-10-19h32m46s855.jpg)
+[![]({{site.url}}/images/5ac4feacfce3c8e84ca31c382cf817e9.jpg)]({{site.url}}/images/5ac4feacfce3c8e84ca31c382cf817e9.jpg)
 
 Ja, det er hvad vi har at arbejde med --- og der kun nogle enkelte frames
 á 33ms hvor det overhovedet er synligt... men måske er der flere, hvor
@@ -79,14 +79,14 @@ hver enkelt af de 14854 frames der er i filmen...
 Og sådan noget er jo ret let at visualisere med R[^5] --- Først det rå
 plot:
 
-[![]({{site.url}}/images/-7MevuPMYTk4/VGEK2TP801I/AAAAAAAACgY/ZEBH-FiaT9U/s1600/gennemlysning_raw.png)]({{site.url}}/images/-7MevuPMYTk4/VGEK2TP801I/AAAAAAAACgY/ZEBH-FiaT9U/s1600/gennemlysning_raw.png)
+[![]({{site.url}}/images/4baccfc7855369e9dac3d5b41580e4a9.png)]({{site.url}}/images/4baccfc7855369e9dac3d5b41580e4a9.png)
 
 Nåja --- der er jo nok nogle ikke-helt-mørke frames i start og slut mens
 jeg får fumlet den op og ned af lommen, så det er der ikke meget spas i.
 Lad os zoome lidt ind på det område omkring 6'03'' hvor jeg så glimt på
 detektoren:
 
-[![]({{site.url}}/images/-iJDtLMk7iYQ/VGELPzo6yTI/AAAAAAAACgg/QVHSwg9o4pU/s1600/gennemlysning.png)]({{site.url}}/images/-iJDtLMk7iYQ/VGELPzo6yTI/AAAAAAAACgg/QVHSwg9o4pU/s1600/gennemlysning.png)
+[![]({{site.url}}/images/077af57ff13c4e2fc1eaf3b3a0d32a9c.png)]({{site.url}}/images/077af57ff13c4e2fc1eaf3b3a0d32a9c.png)
 
 Jojo, nu er der da helt sikker noget --- jeg har mere eller mindre
 arbitrært lagt et cutoff ind, hvor der er 4 sikre datapunkter over, og

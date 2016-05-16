@@ -38,7 +38,7 @@ hvis man agter at gå i nogle af deres mange turistfælder og/eller skal
 op på et bjerg for at nyde udsigten. Det kan i øvrigt også anbefales,
 idet det ser omtrent således ud:
 
-[![]({{site.url}}/images/-rVfH6kr1zZA/Ui9cg3vCbfI/AAAAAAAAB0Y/UEFMkcQLVE4/s400/2013-09-04+15.25.12.jpg)]({{site.url}}/images/-rVfH6kr1zZA/Ui9cg3vCbfI/AAAAAAAAB0Y/UEFMkcQLVE4/s1600/2013-09-04+15.25.12.jpg)
+[![]({{site.url}}/images/fbb98d447e4f6d42dedbc8bad9c5fb8d.jpg)]({{site.url}}/images/8dd4a1ef4c29f56b9999b65d606b7799.jpg)
 
 Nå, men nu er vi jo nær ved at nå substansen - fordi jeg var jo
 nysgerrig nok til at finde min mobiltelefon frem på toppen af det
@@ -67,7 +67,7 @@ trykudlignet flaske (og min tegnedreng, hvis jeg havde brug for en
 absolut reference senere).  
 Billedet ser således ud:
 
-[![]({{site.url}}/images/-7CLXYJHkbss/Ui9cwmi_ZWI/AAAAAAAAB0g/jyXeSfq3kqk/s320/2013-09-04+23.22.15.jpg)]({{site.url}}/images/-7CLXYJHkbss/Ui9cwmi_ZWI/AAAAAAAAB0g/jyXeSfq3kqk/s1600/2013-09-04+23.22.15.jpg)
+[![]({{site.url}}/images/7ab8c99b0ba111b2f99e92a8ab8a96fa.jpg)]({{site.url}}/images/e8546beedb1cc8d084422d945f899c60.jpg)
 
 Tager man nu og måler højderne i pixels i hvilket program man nu måtte
 ønske (jeg brugte [GIMP](http://www.gimp.org)) får man

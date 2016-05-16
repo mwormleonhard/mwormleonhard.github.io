@@ -25,7 +25,7 @@ engangsmanometer af en 1mL sprøjte, en postelastik og lidt tape, og det
 gik sådan set også meget godt, indtil tryklinien sprang læk, men det kan
 I høre om en anden dag.
 
-[![]({{site.url}}/images/-qPACt1fG120/U4ERjlI2xvI/AAAAAAAACYE/XuelEeOv2zE/s1600/2014-05-20+16.45.55.jpg)]({{site.url}}/images/-qPACt1fG120/U4ERjlI2xvI/AAAAAAAACYE/XuelEeOv2zE/s1600/2014-05-20+16.45.55.jpg)
+[![]({{site.url}}/images/e477e570687d6cb35632bc7dd9d26bef.jpg)]({{site.url}}/images/e477e570687d6cb35632bc7dd9d26bef.jpg)
 
 Nej, det, der slog mig var at jeg havde antaget at [Hookes
 lov](http://en.wikipedia.org/wiki/Hooke's_law) også gælder for
@@ -51,7 +51,7 @@ noget med en masse lodder og en fin, næsten ideel fjeder og noget
 indbygget måleværk. Det kan vi gøre bedre. Jeg brugte en pose hvedemel,
 5 papirclips, min køkkenvægt og en lineal:
 
-[![]({{site.url}}/images/-RDmhdcGZqNM/U4ET1I0G15I/AAAAAAAACYQ/FK0Y-s8HazU/s1600/2014-05-24+23.22.57.jpg)]({{site.url}}/images/-RDmhdcGZqNM/U4ET1I0G15I/AAAAAAAACYQ/FK0Y-s8HazU/s1600/2014-05-24+23.22.57.jpg)
+[![]({{site.url}}/images/0a8b1d9a5bf540eb5807a6102a3ee4a4.jpg)]({{site.url}}/images/0a8b1d9a5bf540eb5807a6102a3ee4a4.jpg)
 
 Herefter noterede jeg hvad vægten viste for forskellige længder af
 elastikken, fra slap til min lineal ikke var længere, og på den måde kan
@@ -85,7 +85,7 @@ Jeg fik følgende data:
 Hvis man nu plotter forlængelsen som funktion af lasten, så får man
 følgende (efter omstændighederne) meget smukke graf:
 
-[![]({{site.url}}/images/-17MBNUb8kL0/U4EXCjFOT_I/AAAAAAAACYc/bIclY6LaObQ/s1600/hookeplot.png)]({{site.url}}/images/-17MBNUb8kL0/U4EXCjFOT_I/AAAAAAAACYc/bIclY6LaObQ/s1600/hookeplot.png)
+[![]({{site.url}}/images/583e197dd3de034a395fbcbc8683d4cc.png)]({{site.url}}/images/583e197dd3de034a395fbcbc8683d4cc.png)
 
 Den vågne l\[æø\]ser vil straks bemærke at jeg har fusket lidt og
 klippet de to nederste punkter væk. Dette skyldes at elastikken på det

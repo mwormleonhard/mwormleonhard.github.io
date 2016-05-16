@@ -30,7 +30,7 @@ Lidt mere roden rundt fandt et egnet datasæt i Peter Sommers
 men da den jo kun viser det sidste år, så er her et screendump til
 eftertiden:
 
-[![]({{site.url}}/images/-fxQ0XJ1LQx8/Ut__x9C04wI/AAAAAAAACHw/kVhlXXVC3Us/s1600/Sommer.png)]({{site.url}}/images/-fxQ0XJ1LQx8/Ut__x9C04wI/AAAAAAAACHw/kVhlXXVC3Us/s1600/Sommer.png)
+[![]({{site.url}}/images/de3df87f4a3bb270c9f26ad7465a0403.png)]({{site.url}}/images/de3df87f4a3bb270c9f26ad7465a0403.png)
 
 Lidt mere roden rundt i sovsen fandt at de har lavet grafen ret smart og
 dynamisk, og at kildedata genereres automagisk og er tilgængelige hvis
@@ -40,13 +40,13 @@ passende javascriptvariabel ud.[^2]
 Et par ninjatricks senere havde jeg rådata importeret i R, og kunne
 genskabe plottet:
 
-[![]({{site.url}}/images/-U0RbXgJvgDQ/UuABqs20sfI/AAAAAAAACH8/vd7zS-y0INg/s1600/Rplot1.png)]({{site.url}}/images/-U0RbXgJvgDQ/UuABqs20sfI/AAAAAAAACH8/vd7zS-y0INg/s1600/Rplot1.png)
+[![]({{site.url}}/images/68959327680f44344094657afae58160.png)]({{site.url}}/images/68959327680f44344094657afae58160.png)
 
 Men hele pointen var jo at se på henfaldsfunktionen, så hvis vi lige
 beskærer datasættet lidt, fra "toppen af poppen" og til det har nået et
 stabilt niveau, så får vi følgende:
 
-[![]({{site.url}}/images/-zqsAZPUGHOY/UuACHzaXlNI/AAAAAAAACIE/GvDfyap4Y1E/s1600/Rplot2.png)]({{site.url}}/images/-zqsAZPUGHOY/UuACHzaXlNI/AAAAAAAACIE/GvDfyap4Y1E/s1600/Rplot2.png)
+[![]({{site.url}}/images/058e9135f383f62a89b7a68cd552a1df.png)]({{site.url}}/images/058e9135f383f62a89b7a68cd552a1df.png)
 
 Nu begynder det jo at smage af bladguld på carporten! Det kunne såmænd
 sagtens være et datasæt fra et forsøg med eksempelvis halveringstid, så
@@ -58,7 +58,7 @@ Er det bedste match den kan lave. 
 Hvis vi lige inspicerer dette visuelt, ser det heller ikke HELT skeløjet
 ud:
 
-[![]({{site.url}}/images/-YgC2jlI9JoQ/UuADUTQoQrI/AAAAAAAACIQ/M3a0wV18cS0/s1600/Rplot3.png)]({{site.url}}/images/-YgC2jlI9JoQ/UuADUTQoQrI/AAAAAAAACIQ/M3a0wV18cS0/s1600/Rplot3.png)
+[![]({{site.url}}/images/78a18f5dd614700d889deb91afc07c67.png)]({{site.url}}/images/78a18f5dd614700d889deb91afc07c67.png)
 
 Bemærk at jeg har trukket 8 fra ugenumrene "af tekniske årsager"[^4] ---
 det er de samme data som ovenfor.
@@ -70,7 +70,7 @@ konstant forskydning i antallet og se hvad det så giver...
 
 Jo, minsandten, om ikke det bliver pænere:
 
-[![]({{site.url}}/images/-ciEns1DhhRE/UuAEeQZVRNI/AAAAAAAACIY/xFSSMD4Rz54/s1600/Rplot4.png)]({{site.url}}/images/-ciEns1DhhRE/UuAEeQZVRNI/AAAAAAAACIY/xFSSMD4Rz54/s1600/Rplot4.png)
+[![]({{site.url}}/images/a0ba907d5e08e179a13426449a046f9b.png)]({{site.url}}/images/a0ba907d5e08e179a13426449a046f9b.png)
 
 Modellen konvergerer hurtigere og residualerne er mindre og alle
 parametre er stadig signifikant forskellige fra nul, så modellen ser nu

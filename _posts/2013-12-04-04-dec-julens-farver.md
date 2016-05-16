@@ -43,11 +43,11 @@ surheden af forskellige ting i din husholdning[^1].
 
 Her ses jeres trofaste skribent med et stærkt basisk (gult), stærkt surt(rødt) og svagt surt(lyserødt) kålekstrakt:
 
-[![]({{site.url}}/images/-YJ8mc0Y34_4/UpjALxKo3zI/AAAAAAAAB98/x1XOtTCUaUU/s400/IMG_4095.JPG)]({{site.url}}/images/-YJ8mc0Y34_4/UpjALxKo3zI/AAAAAAAAB98/x1XOtTCUaUU/s1600/IMG_4095.JPG) 
+[![]({{site.url}}/images/8e42b3856643688f1705fb9e7d2b70d5.JPG)]({{site.url}}/images/8d7a858ccbd0845134883bf4d88db500.JPG) 
 
 Men underholdningen stopper ikke med kål! Faktisk er der mange ting der kan anvendes. Her ses fx et forsøg med rødløg:
 
-[![]({{site.url}}/images/-aep9nhgygXA/UpjA45pfdjI/AAAAAAAAB-E/oCj5fXNoJmA/s400/2012-07-23+20.53.04.jpg)]({{site.url}}/images/-aep9nhgygXA/UpjA45pfdjI/AAAAAAAAB-E/oCj5fXNoJmA/s1600/2012-07-23+20.53.04.jpg)
+[![]({{site.url}}/images/625f62b6045b8fbba0667507a5442d68.jpg)]({{site.url}}/images/9a81e20bba90201c10f88fed175fcd20.jpg)
 
 Rødvin virker også, men ikke helt så godt, så den bør man nok drikke i
 stedet. Dog ikke samtidig med at man laver kemi. Jeg har ladet mig

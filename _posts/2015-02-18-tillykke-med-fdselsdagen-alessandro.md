@@ -49,7 +49,7 @@ nødvendigt for at bygge et batteri af dem --- den mørke belægning der
 dannes med tiden virker isolerende, og det gør håndfedt og andet snask
 også.
 
-[![]({{site.url}}/images/-3hmtA1fLyyk/VOTslzIYr0I/AAAAAAAACpc/SQUVq6dJi94/s1600/2015-02-18%2B20.34.50.jpg)]({{site.url}}/images/-3hmtA1fLyyk/VOTslzIYr0I/AAAAAAAACpc/SQUVq6dJi94/s1600/2015-02-18%2B20.34.50.jpg)
+[![]({{site.url}}/images/8309e327d54a3db3114d902eee7be0a5.jpg)]({{site.url}}/images/8309e327d54a3db3114d902eee7be0a5.jpg)
 Blankvaskning af penge med eddike. 
 Spørg ikke hvad en skruenøgle gør i mit køkken... Jeg fandt den i bestikskuffen...
 
@@ -65,7 +65,7 @@ serieforbinder man cellerne og får en større spænding.
 
 Det endte med at se sådan her ud:
 
-[![]({{site.url}}/images/-li0WYLy061c/VOTtUKK0yxI/AAAAAAAACpk/cO4NyzGXmRg/s1600/2015-02-18%2B20.18.28.jpg)]({{site.url}}/images/-li0WYLy061c/VOTtUKK0yxI/AAAAAAAACpk/cO4NyzGXmRg/s1600/2015-02-18%2B20.18.28.jpg)
+[![]({{site.url}}/images/a72b0d181d3bb6737a05e020d95224b4.jpg)]({{site.url}}/images/a72b0d181d3bb6737a05e020d95224b4.jpg)
 
 Sølvpapiret nedenunder er der bare for at lave en elektrisk forbindelse
 til mit voltmeter, så jeg ikke vælter stakken, når jeg skal måle på
@@ -73,7 +73,7 @@ den.
 
 Men kan det så lave en spænding? JA, sgu! --- næsten 400mV!
 
-[![]({{site.url}}/images/-IFpS4ZkXRZs/VOTtqoIZuzI/AAAAAAAACps/g6FFSOuMCsE/s1600/2015-02-18%2B20.19.00.jpg)]({{site.url}}/images/-IFpS4ZkXRZs/VOTtqoIZuzI/AAAAAAAACps/g6FFSOuMCsE/s1600/2015-02-18%2B20.19.00.jpg)
+[![]({{site.url}}/images/d2f2209943ac6bf28c7a6b6baaa84f74.jpg)]({{site.url}}/images/d2f2209943ac6bf28c7a6b6baaa84f74.jpg)
 
 Bevares --- jeg havde ikke engang en lysdiode der var lille og ussel nok
 til at jeg kunne få den til at lyse, men konceptet holder --- jeg har

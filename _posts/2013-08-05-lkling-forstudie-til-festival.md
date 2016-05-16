@@ -55,7 +55,7 @@ Nå, men det var et sidespor.
 Men hvor effektivt er det så at fordampningskøle sin øl? Det har denne
 lille opstilling hjulpet med at svare på:
 
-[![]({{site.url}}/images/-W5RgiyXwy5k/UgAHbJr_9fI/AAAAAAAABvE/IAuW-ifXJN4/s320/2013-08-05+16.02.15.jpg)]({{site.url}}/images/-W5RgiyXwy5k/UgAHbJr_9fI/AAAAAAAABvE/IAuW-ifXJN4/s1600/2013-08-05+16.02.15.jpg)
+[![]({{site.url}}/images/0bc09272ad888d9bb9a0bb79783fc78b.jpg)]({{site.url}}/images/1914be0733249cb181350a4ae6cb1567.jpg)
 
 Den består i al sin enkelthed af en øldåse fyldt med 300g lunkent vand
 (ingen grund til at spilde øl, når det alligevel er 93+% vand, og det er
@@ -68,7 +68,7 @@ let brise. På alle måder realistiske festivalbetingelser, vil jeg mene.
 Plotter vi nu øllets kernetemperatur som funktion af tid får vi følgende
 plot:
 
-[![]({{site.url}}/images/-8RHO1JSin64/UgALKijZHsI/AAAAAAAABvk/-0mZCfXO5gk/s400/evap.png)]({{site.url}}/images/-8RHO1JSin64/UgALKijZHsI/AAAAAAAABvk/-0mZCfXO5gk/s1600/evap.png)
+[![]({{site.url}}/images/3385d73d60e430d6a8840687ac99559f.png)]({{site.url}}/images/dfe3183406ecb9b8f62e12ecc56e8dff.png)
 
 Hvoraf det jo tydeligt fremgår at metoden som sådan ikke fejler noget.
 Den køler jævnt ned fra ca 30C til 20C på en time, om end vi som
@@ -96,7 +96,7 @@ fyldte jeg en skål med så koldt vand som jeg havde i hanen (ca 2L ved
 15C) og tilsatte en håndfuld isterninger og satte endnu en lunken
 model-øl ned i denne væske. Det gav følgende temperaturudvikling:
 
-[![]({{site.url}}/images/-9wttAS_YH00/UgANpKcP-nI/AAAAAAAABv0/c8oi7cnjarA/s400/vandbad.png)]({{site.url}}/images/-9wttAS_YH00/UgANpKcP-nI/AAAAAAAABv0/c8oi7cnjarA/s1600/vandbad.png)
+[![]({{site.url}}/images/06f9ff1678cae570ff2f5d40ccea2aea.png)]({{site.url}}/images/802f5893b27cbb32838591f5490780c4.png)
 
 Det ses her ret let at denne fremgangsmåde er fordampningskøleren dybt
 overlegen. På ca 15 min er vi allerede kommet ned i
@@ -128,7 +128,7 @@ Men hvor meget skal man skynde sig? Ja, hvis
 man tager en almindeligt kælderkold/smålunken øl-model og sætter den
 ganske ubeskyttet ud på min altan, så får man følgende plot:
 
-[![]({{site.url}}/images/-GnFujsR3C0w/UgAP-8PAf8I/AAAAAAAABwE/Aw0aQrOsbRY/s400/baseline.png)]({{site.url}}/images/-GnFujsR3C0w/UgAP-8PAf8I/AAAAAAAABwE/Aw0aQrOsbRY/s1600/baseline.png)
+[![]({{site.url}}/images/d74706094f29b7af53b6f44c1b620ead.png)]({{site.url}}/images/870d038dfb44072c2d81cbacac57908f.png)
 
 Hvis man ser bort fra det lille hik ved ca 2200 sekunder (som skyldtes
 at termometret væltede kortvarigt) så ses det forventede --- en jævn
@@ -158,7 +158,7 @@ tennissokker[^7], lagt dobbelt, for at simulere en mulig improviseret
 termokrave på feltfod. Denne startede godt nok fra en lidt lavere
 temperatur, men som det ses her
 
-[![]({{site.url}}/images/-McyGesW3aVY/UgASr8eVErI/AAAAAAAABwU/3FVuajwTigs/s400/sokke%C3%B8l.png)]({{site.url}}/images/-McyGesW3aVY/UgASr8eVErI/AAAAAAAABwU/3FVuajwTigs/s1600/sokke%C3%B8l.png)
+[![]({{site.url}}/images/58b190554f2001f7987f82854b042c01.png)]({{site.url}}/images/57b8f74acd4e4f13b64f6530593c1afd.png)
 
 er der stadig tale om en nogenlunde jævn temperaturstigning på ca. 6C på
 en time. Så hvis éns øl står og hygger sig for sig selv det meste af

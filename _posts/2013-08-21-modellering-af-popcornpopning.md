@@ -63,7 +63,7 @@ Som sagt, så gjort. Processen er egentlig meget simpel:
 
 Herved fremkommer følgende graf:
 
-[![]({{site.url}}/images/-Wr6R4HLJphE/UhUjVpqqnUI/AAAAAAAABzc/l2xQzrFK7Zg/s400/pop1.png)]({{site.url}}/images/-Wr6R4HLJphE/UhUjVpqqnUI/AAAAAAAABzc/l2xQzrFK7Zg/s1600/pop1.png)
+[![]({{site.url}}/images/60f668e1f0e8a07e2b477be94f188ce1.png)]({{site.url}}/images/7fc3cfce207034d8cba7b5557be76b48.png)
 
 Det ses her at jeg ikke var helt gal på den, med min ide om en
 Sigmoidisk (S-formet) funktion, så lad os se om ikke vi kan finde sådan
@@ -109,7 +109,7 @@ ser det så ud? 
 
 Sådan hér (data: røde cirkler, model: sort linie):
 
-[![]({{site.url}}/images/-jFfZK8M50-g/UhUqRM7skSI/AAAAAAAABzs/k3ar5DC1eAc/s400/pop2.png)]({{site.url}}/images/-jFfZK8M50-g/UhUqRM7skSI/AAAAAAAABzs/k3ar5DC1eAc/s1600/pop2.png)
+[![]({{site.url}}/images/7eec4b9795a6a3c307fb5243d2b6d830.png)]({{site.url}}/images/f774a67dca7d88741f77e13e749fad99.png)
 
 Det må vist siges at være godt nok til rock! [^4] [^5]
 

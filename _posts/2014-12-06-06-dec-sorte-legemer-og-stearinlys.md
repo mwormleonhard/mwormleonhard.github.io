@@ -90,7 +90,7 @@ spektret ligger.
 Hvis jeg skal slippe godt fra dette uden at skulle ud i en hel masse
 grim (men spændende) fysik, matematik og simulering, så kan jeg
 heldigvis hugge denne her fra [Tante Wiki](https://commons.wikimedia.org/wiki/File:Black_body.svg#/media/File:Black_body.svg):
-[![]({{site.url}}/images/-2djCYcl9Si8/VHzeY27bwrI/AAAAAAAACig/lq3QpgjxsQM/s1600/600px-Black_body.svg.png)]({{site.url}}/images/-2djCYcl9Si8/VHzeY27bwrI/AAAAAAAACig/lq3QpgjxsQM/s1600/600px-Black_body.svg.png)
+[![]({{site.url}}/images/2eada05618387d8acb9572c61ac0627c.png)]({{site.url}}/images/2eada05618387d8acb9572c61ac0627c.png)
 
 Her kan man se at selv når temperaturen er ret lav, så har fordelingen
 af udsendt stråling stadig en "hale" ind i det rød/gule område, selvom

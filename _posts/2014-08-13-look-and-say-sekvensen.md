@@ -68,7 +68,7 @@ Det giver ikke helt vildt meget mening bare at liste nogle enorme
 talstrænge op eller tabulere deres længder, så jeg har lavet et lille
 plot (klik for at forstørre):
 
-[![]({{site.url}}/images/-Q-DDYZWkUHA/U-tus3g8NKI/AAAAAAAACbc/AZTPJ9TMwZ8/s1600/Rplot.png)]({{site.url}}/images/-Q-DDYZWkUHA/U-tus3g8NKI/AAAAAAAACbc/AZTPJ9TMwZ8/s1600/Rplot.png)
+[![]({{site.url}}/images/7783d75b15ecce31a0279f139dd00ffb.png)]({{site.url}}/images/7783d75b15ecce31a0279f139dd00ffb.png)
 
 Vi kan nu se at længden stiger jævnt, men ikke lineært og at når vi når
 op omkring de 60 iterationer, så er vi oppe i størrelsesordenen
@@ -79,7 +79,7 @@ stiger? Vi kan jo starte med de sædvanlige tricks --- prøve at gøre
 akserne logaritmiske, fx, og her ville det jo være oplagt at starte med
 y-aksen, og så får vi:
 
-[![]({{site.url}}/images/-xrBG1wITtds/U-tvgPs7q3I/AAAAAAAACbk/dyekG6C6RmE/s1600/Rplot01.png)]({{site.url}}/images/-xrBG1wITtds/U-tvgPs7q3I/AAAAAAAACbk/dyekG6C6RmE/s1600/Rplot01.png)
+[![]({{site.url}}/images/82b2702fdff217b628574b2e7e274327.png)]({{site.url}}/images/82b2702fdff217b628574b2e7e274327.png)
 
 Woha! det var da pludselig en utroligt pæn ret linie, hvis man lige ser
 bort fra det det der fnidder nede i bunden, og vi kan altså konkludere

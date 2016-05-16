@@ -40,7 +40,7 @@ Jeg skal være helt
 ærlig og indrømme at jeg er for doven til at tegne det pænt, men det er
 cirka sådan noget her vi får:
 
-[![]({{site.url}}/images/-794sTkolkek/Uoo5cRXvUHI/AAAAAAAAB1w/z7B339F__fg/s320/2013-11-18+16.57.15.jpg)]({{site.url}}/images/-794sTkolkek/Uoo5cRXvUHI/AAAAAAAAB1w/z7B339F__fg/s1600/2013-11-18+16.57.15.jpg)
+[![]({{site.url}}/images/a5af5c1a5eac646240415eda96763c85.jpg)]({{site.url}}/images/851cd1cb63d57dcac1218abc4e491709.jpg)
 
 Idet \\(\angle A=90^\circ\\) --- det er jo en tangent der skærer en
 radius --- kan vi anvende Pythagoras, og få \\(|AB|^2 + |AC|^2 =

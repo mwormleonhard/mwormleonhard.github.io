@@ -46,7 +46,7 @@ svært at tørre den tilstrækkeligt meget efter at have været neddykket i
 vandbadet til at det bliver præcist. Så frem med ingeniørløsningen:
 
 
-[![]({{site.url}}/images/-93iwTDTxNjY/U_jj1NFjrnI/AAAAAAAACcE/HPpnKMKzUuA/s1600/2014-08-22%2B23.22.34.jpg)]({{site.url}}/images/-93iwTDTxNjY/U_jj1NFjrnI/AAAAAAAACcE/HPpnKMKzUuA/s1600/2014-08-22%2B23.22.34.jpg)
+[![]({{site.url}}/images/5597ef19ca07754bf3a0165b86489caa.jpg)]({{site.url}}/images/5597ef19ca07754bf3a0165b86489caa.jpg)
 
 1.  Vej en engangssprøjte fyldt med 10mL luft
 2.  Fyld den med 10mL lightergas (fyld og tøm 2--3 gange for at sikre at

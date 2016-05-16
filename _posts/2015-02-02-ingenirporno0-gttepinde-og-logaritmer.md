@@ -34,7 +34,7 @@ desparat efter den i mine skuffer at jeg (gen)fandt denne sjove lille
 dims, og tænkte at der var udgangspunkt for noget / en
 (teknologi)historie:
 
-[![]({{site.url}}/images/-2hCFm7fCa2E/VM-o8u1QI7I/AAAAAAAAClk/Y7HmdJnFULI/s1600/2015-02-02%2B17.36.26.jpg)]({{site.url}}/images/-2hCFm7fCa2E/VM-o8u1QI7I/AAAAAAAAClk/Y7HmdJnFULI/s1600/2015-02-02%2B17.36.26.jpg)
+[![]({{site.url}}/images/bbebc720231793f7f17002baca2ba5a2.jpg)]({{site.url}}/images/bbebc720231793f7f17002baca2ba5a2.jpg)
 
 Hvis billedet er lidt utydeligt, så beklager jeg --- det er tilsyneladende
 det bedste min mobil magter under forholdene --- men lad os tage det
@@ -62,7 +62,7 @@ ovenpå er nok en hjælp til at aflæse noget præcist.
 Hov? Midten kan bevæge sig? Og har de samme skalaer som de faste dele?  
 Ja:
 
-[![]({{site.url}}/images/-5aeuG2kwTWg/VM-vzaXVwLI/AAAAAAAACl0/RwFRQC6BFLY/s1600/2015-02-02%2B18.08.34.jpg)]({{site.url}}/images/-5aeuG2kwTWg/VM-vzaXVwLI/AAAAAAAACl0/RwFRQC6BFLY/s1600/2015-02-02%2B18.08.34.jpg)
+[![]({{site.url}}/images/4522850908010fa433e9cf3afa8955c9.jpg)]({{site.url}}/images/4522850908010fa433e9cf3afa8955c9.jpg)
 
 Okay. Lad os så starte med at se på det øverste sæt skalaer på den faste
 og bevægelige del. (dem der starter med rødt 8 ude til venstre)
@@ -78,7 +78,7 @@ tungen står ud for 2-tallet på den faste skala... Hmmm.... lad os prøve
 noget andet... Så burde det altså give en 3-tabel at sætte 1 (igen det
 øverste) ud for 3?
 
-[![]({{site.url}}/images/-LA07ANhaf54/VM-xbEnjpkI/AAAAAAAACmA/rvr1Rrg_Enw/s1600/2015-02-02%2B18.17.15.jpg)]({{site.url}}/images/-LA07ANhaf54/VM-xbEnjpkI/AAAAAAAACmA/rvr1Rrg_Enw/s1600/2015-02-02%2B18.17.15.jpg)
+[![]({{site.url}}/images/494e7dfe08303fb9a6670f9934471d6b.jpg)]({{site.url}}/images/494e7dfe08303fb9a6670f9934471d6b.jpg)
 
 Lad os se... ud for 2,3,4,5 på tungen har vi nu 6,9,12,15 - de sidste to
 godt nok kun ud fra en forudsætning om at 1-tallet der følger efter 9 i
@@ -118,7 +118,7 @@ multiplicere 1536[^3] med 17?  Så er man naturligvis nødt til at lave
 lidt fingergymnastik, men det ser ca. sådan her ud:
 
 
-[![]({{site.url}}/images/-bVoOq9vtz-0/VM-8dnat9AI/AAAAAAAACmQ/HDvBM8bE8o0/s1600/2015-02-02%2B19.03.07.jpg)]({{site.url}}/images/-bVoOq9vtz-0/VM-8dnat9AI/AAAAAAAACmQ/HDvBM8bE8o0/s1600/2015-02-02%2B19.03.07.jpg)
+[![]({{site.url}}/images/a9eabec626c88df6eab1cb7d39a18984.jpg)]({{site.url}}/images/a9eabec626c88df6eab1cb7d39a18984.jpg)
 
 Ja, jeg har zoomet lidt kraftigt, da jeg ikke kunne bruge løberen til at
 aflæse, fordi den så var i vejen på billedet, men jeg har efter bedste
@@ -171,14 +171,14 @@ godt kunne have sådan en anvendelse, men jeg har ofte taget fejl.
 Et lille kig på bagsiden med tungen trukket ud, så man kan se
 aflæseaggregatet til højre:
 
-[![]({{site.url}}/images/-rq1LfKuu26w/VM_DMClkcfI/AAAAAAAACmg/1r3ULD_Ktyk/s1600/2015-02-02%2B19.31.11.jpg)]({{site.url}}/images/-rq1LfKuu26w/VM_DMClkcfI/AAAAAAAACmg/1r3ULD_Ktyk/s1600/2015-02-02%2B19.31.11.jpg)
+[![]({{site.url}}/images/75ecf0c3a8a6d0ac8b34f159f27e5814.jpg)]({{site.url}}/images/75ecf0c3a8a6d0ac8b34f159f27e5814.jpg)
 
 Bemærk firmamærket --- tilsyneladende lavede LM Ericsson lommeregnere før
 de lavede mobiltelefoner :-)
 
 Og den anden ende af tungen, med markeringer af skalaer:
 
-[![]({{site.url}}/images/-_L-wPFYmSXw/VM_DNAwIrhI/AAAAAAAACmo/1yHGsvhM39c/s1600/2015-02-02%2B19.31.23.jpg)]({{site.url}}/images/-_L-wPFYmSXw/VM_DNAwIrhI/AAAAAAAACmo/1yHGsvhM39c/s1600/2015-02-02%2B19.31.23.jpg)
+[![]({{site.url}}/images/cb476df33d8ff22e86098503d84ba5ea.jpg)]({{site.url}}/images/cb476df33d8ff22e86098503d84ba5ea.jpg)
 
 Det var vist hvad jeg havde at sige om den sag, lige indledningsvis, men
 nu mener jeg også at have præsenteret dimsen nok til et

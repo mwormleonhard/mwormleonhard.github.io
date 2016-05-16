@@ -36,7 +36,7 @@ Tager vi en kemisk hat[^2] på er det interessante ved nelliker derimod
 hvad det er der giver dem deres meget karakteristiske duft. Det er et
 stof der hedder Eugenol, og det ser således ud:
 
-[![]({{site.url}}/images/-R0NKsNNraKA/VITBDKu2WZI/AAAAAAAACiw/VWluwyB_Yzo/s1600/Eugenol2DCSD.svg.png)]({{site.url}}/images/-R0NKsNNraKA/VITBDKu2WZI/AAAAAAAACiw/VWluwyB_Yzo/s1600/Eugenol2DCSD.svg.png)
+[![]({{site.url}}/images/198f73fe577726bf1133f225349feb5d.png)]({{site.url}}/images/198f73fe577726bf1133f225349feb5d.png)
 
 Den vågne l\[æø\]ser vil straks se at man med forholdsvis lethed ville
 kunne fremstille adskillige euforiserende stoffer ud fra dette skelet,

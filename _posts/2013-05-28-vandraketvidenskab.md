@@ -14,8 +14,6 @@ blogger_id: tag:blogger.com,1999:blog-6363822545143881814.post-50980523244473126
 blogger_orig_url: http://labnoter.blogspot.com/2013/05/vandraketvidenskab.html
 ---
 
-##Indledning
-
 Raketter er fed nørdlir! Derfor!  
 Nå, jeg skal være saglig? Jamen, det er da ikke svært. "Raketvidenskab" er jo nærmet per definition synonymt med noget der er langhåret og involverer en masse matematik, fysik, ingeniørkunst og faremomenter. 
 Det er jo også tilnærmelsesvis sandt. Men det behøver ikke være _så_ svært igen. 
@@ -66,7 +64,7 @@ flasken. Affyringen videodokumenteres på god afstand med en mobiltelefon
 
 
 ##Resultater (Rådata)
-[![]({{site.url}}/images/-9LwBvqRu2W0/UaRLyfXyDPI/AAAAAAAABls/WaCJB-YRgIc/s400/forsøg3-animeret.gif)]({{site.url}}/images/-9LwBvqRu2W0/UaRLyfXyDPI/AAAAAAAABls/WaCJB-YRgIc/s1600/forsøg3-animeret.gif)  
+[![]({{site.url}}/images/7ba1a8b84a2e098f71c99fd97e19ccc6.gif)]({{site.url}}/images/4b49b7d90e19199a056dde20564d0d82.gif)  
 Ja, det er en animeret gif. Ja, jeg har opdaget det er 2013. If it ain't broken...
 
 Som det lige akkurat ses på ovenstående animation var det muligt at følge raketten i 15 frames - cirka et halvt sekund i realtid, og opløsningen er ikke noget at råbe hurra for. Men nu er vi jo heldigvis videnskabsfolk, og derfor ikke bange for at måle på noget der ser grimt ud.
@@ -83,7 +81,7 @@ regneark - min egen kopi er i MS Excel, men en Google Docs klon er
 linket til nedenfor.  
 Det samlede billede med markører ser således ud:  
 
-[![]({{site.url}}/images/-ZsAFbG_2Vyg/UaRLvm-o90I/AAAAAAAABlg/rOsZWLgyU64/s400/fors%25C3%25B8g3-forenet-markeret.png)]({{site.url}}/images/-ZsAFbG_2Vyg/UaRLvm-o90I/AAAAAAAABlg/rOsZWLgyU64/s1600/fors%25C3%25B8g3-forenet-markeret.png)
+[![]({{site.url}}/images/8445ecfb0aa98fcb3a04e5d7a552d87e.png)]({{site.url}}/images/0dbd270a3aa79733e8ac5f7b21a9647b.png)
 
 
 Hvis du har lyst til at lege med tallene selv, så er som de som lovet i

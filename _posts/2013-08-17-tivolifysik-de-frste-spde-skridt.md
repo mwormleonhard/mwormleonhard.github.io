@@ -97,7 +97,7 @@ meget epicyklisk, roterende oplevelse. Data fra turen ser således ud,
 efter at være blevet udglattet en smule (5-punkts rullende middelværdi),
 da de ellers ligner det rene støj:
 
-[![]({{site.url}}/images/-Z0Ch1oLDs_s/Ug-DSSFf4PI/AAAAAAAABx4/B5G2Gsfb_uU/s400/Rplot004.png)]({{site.url}}/images/-Z0Ch1oLDs_s/Ug-DSSFf4PI/AAAAAAAABx4/B5G2Gsfb_uU/s1600/Rplot004.png)
+[![]({{site.url}}/images/164ec3379eb6a254714d9deb17be0f3e.png)]({{site.url}}/images/a6077ae51c38e1a700f11bb838280534.png)
 
 Umiddelbart ser det jo meget tilforladeligt ud --- en roterende bevægelse
 om flere akser må jo forventes at være cyklisk i sin påvirkning (noget
@@ -124,7 +124,7 @@ Da vektorerne er en smule skæve er det svært at lave en ordentlig
 frekvensanalyse, men Hvis vi prøver at zoome lidt in på de to
 væsentligste vektorer, nemlig X(sort) og Z(rød) ser vi
 
-[![]({{site.url}}/images/-K5UrwsrIK6Q/Ug-GEVWNiTI/AAAAAAAAByE/Hh0DM52YkQQ/s400/Rplot005.png)]({{site.url}}/images/-K5UrwsrIK6Q/Ug-GEVWNiTI/AAAAAAAAByE/Hh0DM52YkQQ/s1600/Rplot005.png)
+[![]({{site.url}}/images/f95d3ed61a354d6a5423b629204b63b7.png)]({{site.url}}/images/76b4d1438ef5c07c49911e7b7ade208b.png)
 
 en tydelig periodicitet i x-retningen med en periode på ca 4-5 sekunder,
 hvilket svarer meget godt til en rotation om den største akse. Vi ser
@@ -133,7 +133,7 @@ det ikke, og det er svært at afgøre hvor meget der er artefakter og hvor
 meget der er reelle data. Laver man en egentlig spektrumanalyse får man
 noget der ser således ud:
 
-[![]({{site.url}}/images/-blu7gbuwpug/Ug-ICvP3wjI/AAAAAAAAByQ/NnCSPHmvXi4/s400/Rplot002.png)]({{site.url}}/images/-blu7gbuwpug/Ug-ICvP3wjI/AAAAAAAAByQ/NnCSPHmvXi4/s1600/Rplot002.png)
+[![]({{site.url}}/images/a04f7b449bf9f5564631365fe2199cab.png)]({{site.url}}/images/7ba3bc6d0f1e3c5b1deca3eb27b64ae0.png)
 
 Det ses heraf at de mest intense signaler er ca 0,25 Hz, svarende meget
 godt til ovennævnte observerede peride om storaksen og ca 0,6 Hz
@@ -164,7 +164,7 @@ hvorved man føler at man stort set letter fra sædet og kun holdes fast
 af bøjlen. Men kan det nu også passe? Det var faktisk et af de spørgsmål
 der foranledigede dette studie i første omgang... Så lad os se på det!
 
-[![]({{site.url}}/images/-hMLHRijKHnQ/Ug-MP1nQY0I/AAAAAAAAByc/Trn2KAIpKAU/s400/Rplot010.png)]({{site.url}}/images/-hMLHRijKHnQ/Ug-MP1nQY0I/AAAAAAAAByc/Trn2KAIpKAU/s1600/Rplot010.png)
+[![]({{site.url}}/images/0c3ed1e341966fd921587fcd636c58bc.png)]({{site.url}}/images/06bbeb51dd78ec9fa3c00b027205b59d.png)
 
 Det allerførste der springer i øjnene er at, jo, den er god nok - spiken
 i Y-retning ved ca. 15 sekunder falder fint sammen med det første store
@@ -215,7 +215,7 @@ rutschebanetur og bedre målinger :-)
 Nu kender I jo efterhånden turen, så lad os uden videre kaste nogle
 grafer på bordet:
 
-[![]({{site.url}}/images/-mgeu0WVW0vg/Ug-QjTN7AyI/AAAAAAAAByo/2QPOn1FlyDQ/s400/Rplot001.png)]({{site.url}}/images/-mgeu0WVW0vg/Ug-QjTN7AyI/AAAAAAAAByo/2QPOn1FlyDQ/s1600/Rplot001.png)
+[![]({{site.url}}/images/4eea29bfdfc61ecf3c21fb97b68b5fe6.png)]({{site.url}}/images/468ec962fd669b2494dd57927d2a4bdb.png)
 
 Igen ser vi at der er fin overensstemmelse mellem data og subjektiv
 virkeligehed --- man starter med at køre stille og roligt op, hvorefter
@@ -257,7 +257,7 @@ koordinattransformation, men det må være en øvelse for den vågne
 l\[æø\]ser. Ikke desto mindre ser vi væsentlig pænere data end fra
 tekopperne:
 
-[![]({{site.url}}/images/-MsmmO8hyGIw/Ug-U7EN_aRI/AAAAAAAABy0/WLVCwalcfW0/s400/Rplot008.png)]({{site.url}}/images/-MsmmO8hyGIw/Ug-U7EN_aRI/AAAAAAAABy0/WLVCwalcfW0/s1600/Rplot008.png)
+[![]({{site.url}}/images/cf608c3c8198c2fed8e01e243a88c993.png)]({{site.url}}/images/362ddec555dc5ab5a6430b2151d1ad0a.png)
 
 Her er også anvendt udglatning --- 3-punkts løbende middelværdi --- og det
 ses som forventet at den største bevægelse er i Y og Z, (op/ned og
@@ -281,7 +281,7 @@ op og svæve, men reduceres i bedste fald til ca. 10-20% af normalvægt. 
 Zoomer vi ind og sammenligner vi bevægelsen i Y(sort) og Z-retning(rød)
 ses følgende:
 
-[![]({{site.url}}/images/-9q5fVFS_-FI/Ug-XPR_5miI/AAAAAAAABzA/cE1wMTxbd-Q/s400/Rplot009.png)]({{site.url}}/images/-9q5fVFS_-FI/Ug-XPR_5miI/AAAAAAAABzA/cE1wMTxbd-Q/s1600/Rplot009.png)
+[![]({{site.url}}/images/81fb40d93df698436f427e5d035a0975.png)]({{site.url}}/images/57286cd9b10a44a0b7fecd61fdaa4658.png)
 
 Her ses faseforskydningen meget smukt og tydeligt. Når man er på toppen
 af en bue, svarende til en sort peak, så  ophører påvirkningen "opad"
@@ -292,7 +292,7 @@ rotationshastigheden er konstant.
 
 Bare fordi jeg kan, så skal vi da lige have et spektrogram på banen:
 
-[![]({{site.url}}/images/-sufgJrBn3Kw/Ug-YgUeUWwI/AAAAAAAABzI/rRRiO_6qWVg/s400/Rplot006.png)]({{site.url}}/images/-sufgJrBn3Kw/Ug-YgUeUWwI/AAAAAAAABzI/rRRiO_6qWVg/s1600/Rplot006.png)
+[![]({{site.url}}/images/ab90de5046f7e68c5457b2f50190313e.png)]({{site.url}}/images/c7f1922e5d2ccfd6acaac046f6fa9720.png)
 
 Ganske som forventet ser vi hér kun ét kraftigt signal, ved ca 0,75Hz,
 svarende ganske fint til at der går lige over et sekund mellem man

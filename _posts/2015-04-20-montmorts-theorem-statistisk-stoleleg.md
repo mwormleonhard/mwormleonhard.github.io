@@ -67,7 +67,7 @@ resulterede i at mindst én studerende ramte sin egen plads.
 
 Det kom til at se således ud:
 
-[![]({{site.url}}/images/-TB6ljbb8Paw/VTVSFPss04I/AAAAAAAAC0I/RbDMXCICoI0/s1600/montmort.mc.1e7.png)]({{site.url}}/images/-TB6ljbb8Paw/VTVSFPss04I/AAAAAAAAC0I/RbDMXCICoI0/s1600/montmort.mc.1e7.png)
+[![]({{site.url}}/images/f86514735abe6add4ff860d347ce826f.png)]({{site.url}}/images/f86514735abe6add4ff860d347ce826f.png)
 
 Jeg har zoomet ret kraftigt på y-aksen, så de første 4 punkter ligger
 udenfor grafen, men da jeg har opskrevet de første tre ovenfor, så går

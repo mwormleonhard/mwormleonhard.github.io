@@ -56,10 +56,10 @@ Kan man ikke se lygten har man brugt for meget mælk. Er den ikke gul
 eller rød har man brugt for lidt mælk. Leg med det.
 
 Transmitteret lys:
-[![]({{site.url}}/images/-_qurtPRpDxc/VCBjiaGJflI/AAAAAAAACdg/GrZOwHDFH5s/s1600/2014-09-22%2B19.18.42.jpg)]({{site.url}}/images/-_qurtPRpDxc/VCBjiaGJflI/AAAAAAAACdg/GrZOwHDFH5s/s1600/2014-09-22%2B19.18.42.jpg)
+[![]({{site.url}}/images/db7e606e4264bab463decd9009c1c7aa.jpg)]({{site.url}}/images/db7e606e4264bab463decd9009c1c7aa.jpg)
 
 Spredt lys:
-[![]({{site.url}}/images/-WeMgr1FDvx4/VCBjiX5KrpI/AAAAAAAACdk/tdOmIX3C4dI/s1600/2014-09-22%2B19.19.02.jpg)]({{site.url}}/images/-WeMgr1FDvx4/VCBjiX5KrpI/AAAAAAAACdk/tdOmIX3C4dI/s1600/2014-09-22%2B19.19.02.jpg)
+[![]({{site.url}}/images/3f69d3ef06f56c9682c102d2accbc339.jpg)]({{site.url}}/images/3f69d3ef06f56c9682c102d2accbc339.jpg)
 
 Det I har lavet er faktisk en model af atmosfæren![^3] 
 

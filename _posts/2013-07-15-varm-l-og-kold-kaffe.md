@@ -32,7 +32,7 @@ undersøges!
 Jeg drak altså min kaffe ud, og tog kruset med på tur og hjem igen,
 hvor jeg dissekerede det og fandt følgende:
 
-[![]({{site.url}}/images/-FzKBlML8Mws/UeQpFGFrC_I/AAAAAAAABt4/1it-IobSBV4/s320/2013-07-15+18.30.44.jpg)]({{site.url}}/images/-FzKBlML8Mws/UeQpFGFrC_I/AAAAAAAABt4/1it-IobSBV4/s1600/2013-07-15+18.30.44.jpg)
+[![]({{site.url}}/images/a0af7e8f874b09c9031dd6c1df5b61b4.jpg)]({{site.url}}/images/66d5fc7429b90b7f327060d56f143468.jpg)
 
 Den var altså god nok! Der _var_ to lag pap, adskilt af ca. 1mm luft
 hele vejen rundt. Meget snedig konstruktion, faktisk, hvor inderkruset
@@ -61,14 +61,14 @@ kogende vand (undtaget porcelænskruset, der kun kunne rumme 300 mL -
 ups!) og hensat til frivillig afkøling i køkkenet, mens der blev taget
 en temperaturmåling hvert sekund i ca. en time:
 
-[![]({{site.url}}/images/-LB2vAMQVErc/UeQuNfhVgFI/AAAAAAAABuI/FOSnfqpq5oE/s320/2013-07-14+17.06.30.jpg)]({{site.url}}/images/-LB2vAMQVErc/UeQuNfhVgFI/AAAAAAAABuI/FOSnfqpq5oE/s1600/2013-07-14+17.06.30.jpg)
+[![]({{site.url}}/images/049c62d0a5558bf9fb89d18f3ccd7bbc.jpg)]({{site.url}}/images/7ae6a32a205eb63a51a053e96b5505f1.jpg)
 
 Herefter blev data eksporteret fra Vernier Logger Lite som tekstfiler,
 der derefter blev behandlet i R.
 De rå data ser således ud:
 
 
-[![]({{site.url}}/images/-NTsYX1EgYY0/UeQuxI5r1vI/AAAAAAAABuQ/0Q8C7shnadQ/s320/Rplot001.png)]({{site.url}}/images/-NTsYX1EgYY0/UeQuxI5r1vI/AAAAAAAABuQ/0Q8C7shnadQ/s1600/Rplot001.png)
+[![]({{site.url}}/images/91d81aac3464d950fc1acb5d43118509.png)]({{site.url}}/images/ac8efb7394fe763149689e528ae2145e.png)
 
 Det første der springer i øjnene er at jeg har været lidt fumlefingret
 med at få kogt vand, målt det af, monteret termometeret og startet
@@ -118,7 +118,7 @@ omgivelsestemperatur omkring 40C --- vi er jo i dette tilælde alene
 interesserede i hastigheden af temperaturændringen, altså k. Det gav
 følgende plot:
 
-[![]({{site.url}}/images/-vU3VbyFfxlI/UeQ0-ektG1I/AAAAAAAABug/i-FJjifa62I/s320/Rplot003.png)]({{site.url}}/images/-vU3VbyFfxlI/UeQ0-ektG1I/AAAAAAAABug/i-FJjifa62I/s1600/Rplot003.png)
+[![]({{site.url}}/images/fd3292ec54c3d13c4e913413b63c5277.png)]({{site.url}}/images/38c6a73b223fa0ee9bdc7768293af77c.png)
 
 De sorte linier er modellen, og de røde punkter (der ligger så tæt at de
 ligner linier) er målingerne. Det må siges at være godt nok til rock.

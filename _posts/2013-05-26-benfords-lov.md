@@ -120,7 +120,7 @@ givet størrelsen af datasættet og en \\(\\chi^2\\)-test viser da også
 at man ikke kan forkaste nulhypotesen om at tallene følger Benfords lov
 \\((p=0.547)\\).
 
-  [![]({{site.url}}/images/-_kkDxtgqlzg/UaI6AjfYCoI/AAAAAAAABlM/0na39roCVc4/s1600/Benford-ing.jpeg)]({{site.url}}/images/-_kkDxtgqlzg/UaI6AjfYCoI/AAAAAAAABlM/0na39roCVc4/s1600/Benford-ing.jpeg)  
+  [![]({{site.url}}/images/1e5aa65f1a69a08e9caa47433e917f41.jpeg)]({{site.url}}/images/1e5aa65f1a69a08e9caa47433e917f41.jpeg)  
   Observationer af første ciffer i tal fra Ingeniøren nr. 26, 2013 (søjler) og den teoretiske fordeling (+)
 
 ## Outro

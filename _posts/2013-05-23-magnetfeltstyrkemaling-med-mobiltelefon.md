@@ -10,7 +10,7 @@ tags:
 - Køkkenfysik
 - Anna-og-lotte
 modified_time: '2013-05-29T20:15:25.275+02:00'
-thumbnail: http://3.bp.blogspot.com/-0vKL-1CX8-s/UZ4REPY8D1I/AAAAAAAABkU/3ywKasCYB1Y/s72-c/magnetopstilling2.JPG
+thumbnail: http://3.bp.blogspot.com/cbc29f479e51b5cb3735437ff26980fe.JPG
 blogger_id: tag:blogger.com,1999:blog-6363822545143881814.post-840709741508133863
 blogger_orig_url: http://labnoter.blogspot.com/2013/05/magnetfeltstyrkemaling-med-mobiltelefon.html
 ---
@@ -41,7 +41,7 @@ måle hvordan et magnetfelt varierer med afstanden.
 Opstilling
 ----------
 
-![Opstilling-2]({{site.url}}/images/magnetopstilling2.jpg) ![Opstilling-1]({{site.url}}/images/magnetopstilling1.jpg)
+![Opstilling-2]({{site.url}}/images/fd443e0c455c7fd580a1a17a01fb0420.jpg) ![Opstilling-1]({{site.url}}/images/b1b434dfea95266edd8695735e3a9881.jpg)
 
 Mobiltelefonen (en LG Nexus 4) anbringes i en passende holder - hér et
 whiskyglas, da det havde nogle passende dimensioner. 
@@ -93,7 +93,7 @@ Lad os starte med at forholde os til den samlede feltstyrke / fluxtæthed
 som funktion af afstand. Hvis man plotter de rå data kommer det til at
 se således ud:
 
-![]({{site.url}}/images/magnetrådata.png)
+![]({{site.url}}/images/7eb1502eb01a6b614bb5c8bc33a2ceea.png)
 
 Der er i hvert fald helt tydeligt noget signal hér. Spørgsmålet er
 hvilken funktion det følger. Hvis fluxtætheden aftager med en potens af
@@ -102,7 +102,7 @@ ret linie, så lad os prøve at lave sådan ét. Bemærk at jeg har trukket
 baggrundsfluxen (målt til ca. 54µT) fra alle målinger, for kun at have
 den del af signalet der hidrører fra magneten.
 
-![]({{site.url}}/images/magnetloglog.png)
+![]({{site.url}}/images/96f1adbf1cfe766a6e91aae86d25db88.png)
 
 Det må jo siges at være en forbavsende pæn ret linie, der passer fint
 med datapunkterne - og min software siger da også at \\(R^2 = 0,97\\).
@@ -125,7 +125,7 @@ og \\(R^2 =0,999\\).
 
 Lægger vi denne linie ind oven i det originale dataplot fås følgende:
 
-![]({{site.url}}/images/magnetslutfit.png)
+![]({{site.url}}/images/8f7fd45dbd4ed090b8558aca65c14dec.png)
 
 Der må jubles - det er godkendt! Især når man tager forsøgsopstilingens
 (mangel på) kompleksitet i betragtning.

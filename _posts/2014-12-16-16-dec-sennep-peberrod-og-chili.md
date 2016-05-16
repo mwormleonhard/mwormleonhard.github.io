@@ -36,7 +36,7 @@ wasabi, kål og flere andre lignende fødevarer en gruppe af stoffer der
 hedder isothiocyanater[^2], hvoraf det væsentligste er
 allylisothiocyanat, der ser således ud:
 
-[![]({{site.url}}/images/-b12XKbjdcv4/VI2aDinBXYI/AAAAAAAACj0/KByUZMiwuKw/s1600/Allyl-isothiocyanate-2D-skeletal.png)]({{site.url}}/images/-b12XKbjdcv4/VI2aDinBXYI/AAAAAAAACj0/KByUZMiwuKw/s1600/Allyl-isothiocyanate-2D-skeletal.png)
+[![]({{site.url}}/images/7deaebed598b0a55bdce6c68c306af22.png)]({{site.url}}/images/7deaebed598b0a55bdce6c68c306af22.png)
 
 
 Det er gruppen \\( \require{mhchem} \ce{-N=C=S}\\) der kaldes
@@ -53,7 +53,7 @@ dem i kroppen og dermed være klar til en ny smagsoplevelse.
 I chili er sagen en ganske anden. Her hedder den stærke komponent
 capsaicin og er lidt af et fedtet monster i sammenligning:
 
-[![]({{site.url}}/images/-RWOULAFbYxI/VI2cFxBYPXI/AAAAAAAACkA/qJT8ZR_OFTg/s1600/Kapsaicyna.png)]({{site.url}}/images/-RWOULAFbYxI/VI2cFxBYPXI/AAAAAAAACkA/qJT8ZR_OFTg/s1600/Kapsaicyna.png)
+[![]({{site.url}}/images/8315d0c1a363741a1247a0dc3bee266e.png)]({{site.url}}/images/8315d0c1a363741a1247a0dc3bee266e.png)
 
 Dette stof er ikke specielt flygtigt og virker direkte på vores
 smerte/varmesensorer og giver den klassiske "brændende" fornemmelse, der

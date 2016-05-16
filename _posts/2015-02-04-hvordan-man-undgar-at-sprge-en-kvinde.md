@@ -65,14 +65,14 @@ da kunne udlede noget af det?
 
 Som sagt, så gjort! Det kom til at se sådan hér ud:
 
-[![]({{site.url}}/images/-Y2DbyZTHiSs/VNIKocvLlRI/AAAAAAAACm4/gzU0uH-A0Ao/s1600/vlcsnap-2015-02-04-12h44m21s292.png)]({{site.url}}/images/-Y2DbyZTHiSs/VNIKocvLlRI/AAAAAAAACm4/gzU0uH-A0Ao/s1600/vlcsnap-2015-02-04-12h44m21s292.png)
+[![]({{site.url}}/images/2e3cce7f15891ef4ebc2073d896ee938.png)]({{site.url}}/images/2e3cce7f15891ef4ebc2073d896ee938.png)
 
 Som I kan se skal den mindre masse læne sig væsentlig længere bagud for
 at kunne udbalancere den større... Jeg har tegnet et par hjælpelinier på
 billedet, og selvom de blev lidt skæve burde det være relativt let at
 henføre de relevante størrelse til følgende skitse:
 
-[![]({{site.url}}/images/-XWOZ3WGIvDU/VNILenyy-mI/AAAAAAAACnA/HAJ8rvXF2tQ/s1600/2015-02-04%2B12.18.05.jpg)]({{site.url}}/images/-XWOZ3WGIvDU/VNILenyy-mI/AAAAAAAACnA/HAJ8rvXF2tQ/s1600/2015-02-04%2B12.18.05.jpg)
+[![]({{site.url}}/images/62fbf137fa3b560e80fb4517a4ef5dbc.jpg)]({{site.url}}/images/62fbf137fa3b560e80fb4517a4ef5dbc.jpg)
 
 Heraf ser vi altså at hvis vi skal være i balance, så skal vores
 vandrette kraftkomposanter være lige store, altså har vi at
@@ -106,7 +106,7 @@ simplest mulige kompensation for dette må være af indføre en
 kompenserende kraft i regnestykket --- markeret \\(F_{komp}\\) i den
 reviderede skitse:
 
-[![]({{site.url}}/images/-C7gjrj1Aepo/VNIXkX36kLI/AAAAAAAACnQ/jWTMvCkOSXQ/s1600/2015-02-04%2B13.56.45.jpg)]({{site.url}}/images/-C7gjrj1Aepo/VNIXkX36kLI/AAAAAAAACnQ/jWTMvCkOSXQ/s1600/2015-02-04%2B13.56.45.jpg)
+[![]({{site.url}}/images/b6a471a2b7a9222ca19f69107cd2aa08.jpg)]({{site.url}}/images/b6a471a2b7a9222ca19f69107cd2aa08.jpg)
 
 Efter lidt yderligere fingergymnastik kan jeg få flyttet om på
 størrelserne sådan at det giver

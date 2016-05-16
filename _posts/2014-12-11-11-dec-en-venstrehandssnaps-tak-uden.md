@@ -29,7 +29,7 @@ ikke den skal komme til at smage af tyggegummi.
 Okay, det er måske en røver, men kommen indeholder et stof der hedder
 carvon, og det findes i to former, såkaldte spejlbilledisomerer:
 
-[![]({{site.url}}/images/-AGSoufOgNK0/VITL8WN_WCI/AAAAAAAACjA/EQMAwHYJBCU/s1600/433px-Carvone.svg.png)]({{site.url}}/images/-AGSoufOgNK0/VITL8WN_WCI/AAAAAAAACjA/EQMAwHYJBCU/s1600/433px-Carvone.svg.png)
+[![]({{site.url}}/images/0bb75a93a6073ccd4ed7d47e639b42c7.png)]({{site.url}}/images/0bb75a93a6073ccd4ed7d47e639b42c7.png)
 
 På samme måde som man ikke kan tage en venstrehandske på sin højre hånd
 (uden væsentligt ubehag i hvert fald), så kan man ikke vende, dreje og
