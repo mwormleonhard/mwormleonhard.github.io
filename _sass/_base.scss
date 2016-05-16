@@ -271,10 +271,10 @@ pre {
 }
 
 .tag:hover {
-  background-color: #fdf6e3; //solarized base3
-  color: #586e75; //Solarized base01
+  background-color: $solarized-base3;
+  color: $solarized-base01;
 }
 
 .tag:hover::after {
-   border-left-color: #fdf6e3; //solarized base3
+   border-left-color: $solarized-base3;
 }   

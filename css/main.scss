@@ -4,6 +4,23 @@
 @charset "utf-8";
 
 
+// Added solarized colors af variables for reference
+$solarized-base03: #002b36;
+$solarized-base02: #073642;
+$solarized-base01: #586e75;
+$solarized-base00: #657b83;
+$solarized-base0:  #839496;
+$solarized-base1:  #93a1a1;
+$solarized-base2:  #eee8d5;
+$solarized-base3:  #fdf6e3;
+$solarized-yellow: #b58900;
+$solarized-orange: #cb4b16;
+$solarized-red:    #dc322f;
+$solarized-magenta:#d33682;
+$solarized-violet: #6c71c4;
+$solarized-blue:   #268bd2;
+$solarized-cyan:   #2aa198;
+$solarized-green:  #859900;
 
 // Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -14,11 +31,11 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #839496; //Solarized base0
-$background-color: #002b36; //Solarized base03
-$brand-color:      #cb4b16; //Solarized orange
+$text-color:       $solarized-base0; 
+$background-color: $solarized-base03;
+$brand-color:      $solarized-orange;
 
-$grey-color:       #93a1a1; //Solarized base1
+$grey-color:       $solarized-base1;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
