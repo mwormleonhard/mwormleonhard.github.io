@@ -22,6 +22,9 @@ phone: 27 12 70 42
 # Build settings
 markdown: kramdown
 
+gems:
+- jekyll-sitemap
+
 include: 
   - _YeQaHRt-W0
   - _JrxmXPFbx0
