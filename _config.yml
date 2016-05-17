@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Laboratorienoter fra Virkeligheden
-email: mwormleonhard@gmail.com
+title: "Laboratorienoter fra Virkeligheden"
+email: "mwormleonhard@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
   Videnskab til og fra folket: Nørdede påfund og studier af og i den nære virkelighed. 
   Her bor køkkenkemien, baghavefysikken, altanastronomien, beregningerne fra bagsiden af kuverten, den lille undren og den mystiske viden.
@@ -19,14 +19,28 @@ googleplus_username: MartinWormLeonhard
 phone: 27 12 70 42
 
 
+
 # Build settings
 markdown: kramdown
 
 gems:
 - jekyll-sitemap
+- jekyll-seo-tag
 
 include: 
   - _YeQaHRt-W0
   - _JrxmXPFbx0
   
+#SEO Settings
+twitter:
+    username: wyrmlein
 
+facebook:
+    publisher: martin.wormleonhard
+    admins: martin.wormleonhard
+
+logo: assets/labnoter_icon.svg
+
+social:
+    name: "Martin Worm-Leonhard"
+    links: ['https://www.facebook.com/martin.wormleonhard', 'https://twitter.com/wyrmlein', 'https://plus.google.com/+MartinWormLeonhard']
