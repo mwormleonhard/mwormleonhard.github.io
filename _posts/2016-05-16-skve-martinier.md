@@ -2,6 +2,7 @@
 layout: post
 title:  "Den skæve martini" 
 date:   2016-05-16
+author: "Martin Worm-Leonhard"
 tags:
 - Hovedbrud
 - Skæg med tal

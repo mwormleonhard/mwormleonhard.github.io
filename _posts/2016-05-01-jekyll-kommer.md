@@ -3,6 +3,7 @@ comments: true
 layout: post
 title:  "Dr. Jekyll gør sit indtog"
 date:   2016-05-01 16:49:19 +0200
+author: "Martin Worm-Leonhard"
 tags:
 - Housekeeping
 ---

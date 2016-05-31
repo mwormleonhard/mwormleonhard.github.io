@@ -3,6 +3,7 @@ comments: true
 layout: post
 title:  "Køkkenkromatografi: Forstudie" 
 date:   2016-05-11
+author: "Martin Worm-Leonhard"
 tags:
 - Køkkenkemi
 - Teaser
