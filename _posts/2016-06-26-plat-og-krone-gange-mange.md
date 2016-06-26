@@ -14,7 +14,7 @@ For nylig henledte Lokoføreren min opmærksomhed på en kommentar fremsat af en
 
 > Hvis jeg kastede en mønt 33 mio. gange, kunne jeg nok godt klare at få plat 51,9% af gangene. Kan man overhovedet spørge en befolkning om noget og få et svar det ikke er stort set 50/50?
 
-Som de fleste af jer nok ved, så forsøger jeg at undgå at blande politik og nørd[^1], så jeg vil alene forholde mig til påstanden om møntkast og ikke diskutere om det er en rimelig påstand at man kan ramme 51,9% plat, hvis man kaster en sand/ærlig/lige[^2] mønt \\(33\cdot10^6\\) gange.
+Som de fleste af jer nok ved, så forsøger jeg at undgå at blande politik og nørd[^1], så jeg vil alene forholde mig til påstanden om møntkast --- om det er en rimelig påstand at man kan ramme 51,9% plat, hvis man kaster en sand/ærlig/lige[^2] mønt \\(33\cdot10^6\\) gange.
 
 Det at kaste en mønt eller foretage lignende "sand/falsk" eksperimenter kaldes [Bernoulli-forsøg](https://en.wikipedia.org/wiki/Bernoulli_trial) og læser man lidt om det, så finder man ud af at laver man en stor mængde af sådan nogle, så kan de forventes at være [Binomialfordelt](https://en.wikipedia.org/wiki/Binomial_distribution).
 
