@@ -12,7 +12,7 @@ For nylig læste jeg en hyggelig lille bog om små forsøg og naturvidenskabelig
 
 Et af dem var en vejledning i at lave nogle "magiske talkort". I kan se 3 af de syv herunder og jeg har produceret en [PDF med dem alle]({{ site.url }}/assets/tryllekort.pdf) som I kan hente ved at trykke på linket eller billedet.
 
-[![]({{ site.url }}/images.tryllekort.png)]({{ site.url }}/assets/tryllekort.pdf)
+[![]({{ site.url }}/images/tryllekort.png)]({{ site.url }}/assets/tryllekort.pdf)
 
 Denne kan I hente ned, printe, klippe ud og lave et sjovt lille trick med jeres familie og venner.[^1]
 
