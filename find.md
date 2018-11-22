@@ -8,9 +8,9 @@ permalink: /find/
 
 Viderestiller til google-søgning, med parameteren site:labnoter.dk.
 
-<input type="text" name="find_text" id='find_text' onkeydown="if (event.keyCode == 13) document.getElementById('search_button').click()">
+<input type="text" name="find_text" id='find_text' onkeydown="if (event.keyCode == 13) document.getElementById('search_button').click();">
 <button type="button" id="search_button"
-onclick="location.href='http://www.google.com/search?q=site:labnoter.dk+' + document.getElementById('find_text').value"
+onclick="location.href='http://www.google.com/search?q=site:labnoter.dk+' + document.getElementById('find_text').value;"
 >
 Søg!
 </button>
